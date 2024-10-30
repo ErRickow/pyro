@@ -39,12 +39,12 @@ class RPCError(Exception):
         is_unknown: bool = False,
         is_signed: bool = False
     ):
-        super().__init__("Telegram says: [{}{} {}] - {} {}".format(
+        super().__init__("Kata Telegram: [{}{} {}] - {} {}".format(
             "-" if is_signed else "",
             self.CODE,
             self.ID or self.NAME,
             self.MESSAGE.format(value=value),
-            f'(caused by "{rpc_name}")' if rpc_name else ""
+            f'(dikarenakan "{rpc_name}")' if rpc_name else ""
         ))
 
         try:
@@ -100,4 +100,4 @@ class RPCError(Exception):
 class UnknownError(RPCError):
     CODE = 520
     """:obj:`int`: Error code"""
-    NAME = "Unknown error"
+    NAME = "Error Tidak Diketahui"
