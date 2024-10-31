@@ -228,46 +228,46 @@ INPUT_USER_DEACTIVATED Pengguna target telah dihapus/dinonaktifkan
 INVITES_TOO_MUCH Jumlah maksimum undangan per-folder yang ditentukan oleh parameter konfigurasi klien `chatlist_invites_limit_default`/`chatlist_invites_limit_premium` [tidak dapat dicapai](/api/config#chatlist-invites-limit-default).
 INVITE_FORBIDDEN_WITH_JOINAS Jika pengguna telah bergabung secara anonim ke panggilan grup sebagai saluran, mereka tidak dapat mengundang pengguna lain ke panggilan grup karena itu akan menyebabkan deanonimisasi, karena undangan akan dikirim menggunakan ID pengguna asli, bukan ID saluran anonim
 INVITE_HASH_EMPTY Hash undangan kosong
-INVITE_HASH_EXPIRED	The chat invite link is no longer valid
-INVITE_HASH_INVALID	The invite link hash is invalid
-INVITE_REQUEST_SENT	The request to join this chat or channel has been successfully sent
-INVITE_REVOKED_MISSING	The action required a chat invite link to be revoked first
-INVITE_SLUG_EMPTY	The invite slug is empty
-INVITE_SLUG_EXPIRED	The invite slug is expired
-INVOICE_PAYLOAD_INVALID	The specified invoice payload is invalid
-JOIN_AS_PEER_INVALID	The specified peer cannot be used to join a group call
-LANG_CODE_INVALID	The specified language code is invalid
-LANG_CODE_NOT_SUPPORTED	The specified language code is not supported
-LANG_PACK_INVALID	The provided language pack is invalid
-LASTNAME_INVALID	The last name is invalid
-LIMIT_INVALID	The limit parameter is invalid
-LINK_NOT_MODIFIED	The chat link was not modified because you tried to link to the same target
-LOCATION_INVALID	The file location is invalid
-MAX_DATE_INVALID	The specified maximum date is invalid
-MAX_ID_INVALID	The max_id parameter is invalid
-MAX_QTS_INVALID	The provided QTS is invalid
-MD5_CHECKSUM_INVALID	The file's checksum did not match the md5_checksum parameter
-MEDIA_CAPTION_TOO_LONG	The media caption is too long
-MEDIA_EMPTY	The media you tried to send is invalid
-MEDIA_FILE_INVALID	The provided media file is invalid
-MEDIA_GROUPED_INVALID	You tried to send media of different types in an album
-MEDIA_INVALID	The media is invalid
-MEDIA_NEW_INVALID	The new media to edit the message with is invalid
-MEDIA_PREV_INVALID	The previous media cannot be edited with anything else
-MEDIA_TTL_INVALID	The media ttl is invalid
-MEDIA_TYPE_INVALID	The specified media type cannot be used in stories.
-MEDIA_VIDEO_STORY_MISSING	The media does not have a photo or a video
-MEGAGROUP_GEO_REQUIRED	This method can only be invoked on a geogroup.
-MEGAGROUP_ID_INVALID	The supergroup is invalid
-MEGAGROUP_PREHISTORY_HIDDEN	The action failed because the supergroup has the pre-history hidden
-MEGAGROUP_REQUIRED	The request can only be used with a supergroup
-MESSAGE_EDIT_TIME_EXPIRED	You can no longer edit this message because too much time has passed
-MESSAGE_EMPTY	The message sent is empty or contains invalid characters
-MESSAGE_IDS_EMPTY	The requested message doesn't exist or you provided no message id
-MESSAGE_ID_INVALID	The message id is invalid
-MESSAGE_NOT_MODIFIED	The message was not modified because you tried to edit it using the same content
-MESSAGE_POLL_CLOSED	You can't interact with a closed poll
-MESSAGE_TOO_LONG	The message text is too long
+INVITE_HASH_EXPIRED Tautan undangan obrolan tidak lagi valid
+INVITE_HASH_INVALID Hash tautan undangan tidak valid
+INVITE_REQUEST_SENT Permintaan untuk bergabung dengan obrolan atau saluran ini telah berhasil dikirim
+INVITE_REVOKED_MISSING Tindakan ini memerlukan tautan undangan obrolan untuk dicabut terlebih dahulu
+INVITE_SLUG_EMPTY Slug undangan kosong
+INVITE_SLUG_EXPIRED Slug undangan telah kadaluarsa
+INVOICE_PAYLOAD_INVALID Payload faktur yang ditentukan tidak valid
+JOIN_AS_PEER_INVALID Peer yang ditentukan tidak dapat digunakan untuk bergabung dalam panggilan grup
+LANG_CODE_INVALID Kode bahasa yang ditentukan tidak valid
+LANG_CODE_NOT_SUPPORTED Kode bahasa yang ditentukan tidak didukung
+LANG_PACK_INVALID Paket bahasa yang diberikan tidak valid
+LASTNAME_INVALID Nama belakang tidak valid
+LIMIT_INVALID Parameter batas tidak valid
+LINK_NOT_MODIFIED Tautan obrolan tidak dimodifikasi karena Anda mencoba menghubungkan ke target yang sama
+LOCATION_INVALID Lokasi file tidak valid
+MAX_DATE_INVALID Tanggal maksimum yang ditentukan tidak valid
+MAX_ID_INVALID Parameter max_id tidak valid
+MAX_QTS_INVALID QTS yang diberikan tidak valid
+MD5_CHECKSUM_INVALID Checksum file tidak cocok dengan parameter md5_checksum
+MEDIA_CAPTION_TOO_LONG Keterangan media terlalu panjang
+MEDIA_EMPTY Media yang Anda coba kirim tidak valid
+MEDIA_FILE_INVALID File media yang diberikan tidak valid
+MEDIA_GROUPED_INVALID Anda mencoba mengirim media dari berbagai jenis dalam satu album
+MEDIA_INVALID Media tidak valid
+MEDIA_NEW_INVALID Media baru untuk mengedit pesan tidak valid
+MEDIA_PREV_INVALID Media sebelumnya tidak dapat diedit dengan yang lain
+MEDIA_TTL_INVALID Media ttl tidak valid
+MEDIA_TYPE_INVALID Jenis media yang ditentukan tidak dapat digunakan dalam cerita.
+MEDIA_VIDEO_STORY_MISSING Media tidak memiliki foto atau video
+MEGAGROUP_GEO_REQUIRED Metode ini hanya dapat dipanggil pada geogroup.
+MEGAGROUP_ID_INVALID Supergroup tidak valid
+MEGAGROUP_PREHISTORY_HIDDEN Tindakan gagal karena supergroup memiliki riwayat sebelumnya yang disembunyikan
+MEGAGROUP_REQUIRED Permintaan ini hanya dapat digunakan dengan supergroup
+MESSAGE_EDIT_TIME_EXPIRED Anda tidak dapat lagi mengedit pesan ini karena terlalu banyak waktu telah berlalu
+MESSAGE_EMPTY Pesan yang dikirim kosong atau berisi karakter tidak valid
+MESSAGE_IDS_EMPTY Pesan yang diminta tidak ada atau Anda tidak memberikan ID pesan
+MESSAGE_ID_INVALID ID pesan tidak valid
+MESSAGE_NOT_MODIFIED Pesan tidak dimodifikasi karena Anda mencoba mengeditnya menggunakan konten yang sama
+MESSAGE_POLL_CLOSED Anda tidak dapat berinteraksi dengan jajak pendapat yang telah ditutup
+MESSAGE_TOO_LONG Teks pesan terlalu panjang
 METHOD_INVALID	The API method is invalid and cannot be used
 MIN_DATE_INVALID	The specified minimum date is invalid
 MSG_ID_INVALID	The message ID used in the peer was invalid
