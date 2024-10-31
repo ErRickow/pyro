@@ -338,66 +338,66 @@ PLATFORM_INVALID Platform yang diberikan tidak valid. Nilai yang diizinkan adala
 POLL_ANSWERS_INVALID Jawaban jajak pendapat tidak valid
 POLL_ANSWER_INVALID Salah satu jawaban jajak pendapat tidak dapat diterima
 POLL_OPTION_DUPLICATE Opsi duplikat dikirim dalam jajak pendapat yang sama
-POLL_OPTION_INVALID	A poll option used invalid data (the data may be too long)
-POLL_QUESTION_INVALID	The poll question is invalid
-POLL_UNSUPPORTED	This layer does not support polls in the invoked method
-POLL_VOTE_REQUIRED	Cast a vote in the poll before calling this method
-PREMIUM_ACCOUNT_REQUIRED	The method requires a premium user account
-PREMIUM_GIFTCODE_WAS_REFUNDED	This gift code can't be redeemed because the giveaway organizer requested a refund
-PRIVACY_KEY_INVALID	The privacy key is invalid
-PRIVACY_TOO_LONG	Your privacy exception list has exceeded the maximum capacity
-PRIVACY_VALUE_INVALID	The privacy value is invalid
-PUBLIC_BROADCAST_EXPECTED	A public channel was expected, but something else was provided
-PUBLIC_KEY_REQUIRED	A public key is required
-QUERY_ID_EMPTY	The query ID is empty
-QUERY_ID_INVALID	The callback query id is invalid
-QUERY_TOO_SHORT	The query is too short
-QUIZ_ANSWER_MISSING	You can forward a quiz while hiding the original author only after choosing an option in the quiz
-QUIZ_CORRECT_ANSWERS_EMPTY	The correct answers of the quiz are empty
-QUIZ_CORRECT_ANSWERS_TOO_MUCH	The quiz contains too many correct answers
-QUIZ_CORRECT_ANSWER_INVALID	The correct answers of the quiz are invalid
-QUIZ_MULTIPLE_INVALID	A quiz can't have multiple answers
-QUOTE_TEXT_INVALID	The quote text is invalid
-RANDOM_ID_EMPTY	The random ID is empty
-RANDOM_ID_INVALID	The provided random ID is invalid
-RANDOM_LENGTH_INVALID	The random length is invalid
-RANGES_INVALID	Invalid range provided
-REACTIONS_TOO_MANY	Non-premium users, can set up only one reaction per message
-REACTION_EMPTY	The reaction provided is empty
-REACTION_INVALID	Invalid reaction provided (only valid emoji are allowed)
-REFLECTOR_NOT_AVAILABLE	The call reflector is not available
-REPLY_MARKUP_BUY_EMPTY	Reply markup for buy button empty
-REPLY_MARKUP_GAME_EMPTY	The provided reply markup for the game is empty
-REPLY_MARKUP_INVALID	The provided reply markup is invalid
-REPLY_MARKUP_TOO_LONG	The reply markup is too long
-REPLY_MESSAGE_ID_INVALID	The reply message id is invalid
-REPLY_TO_INVALID	The specified `reply_to` field is invalid.
-REPLY_TO_USER_INVALID	The replied-to user is invalid.
-RESET_REQUEST_MISSING	No password reset is in progress
-RESULTS_TOO_MUCH	The result contains too many items
-RESULT_ID_DUPLICATE	The result contains items with duplicated identifiers
-RESULT_ID_EMPTY	Result ID empty
-RESULT_ID_INVALID	The given result cannot be used to send the selection to the bot
-RESULT_TYPE_INVALID	The result type is invalid
-REVOTE_NOT_ALLOWED	You cannot change your vote
-RIGHTS_NOT_MODIFIED	The new admin rights are equal to the old rights, no change was made
-RSA_DECRYPT_FAILED	Internal RSA decryption failed
-SAVED_DIALOGS_UNSUPPORTED	You cannot use this method
-SCHEDULE_BOT_NOT_ALLOWED	Bots are not allowed to schedule messages
-SCHEDULE_DATE_INVALID	Invalid schedule date provided
-SCHEDULE_DATE_TOO_LATE	The date you tried to schedule is too far in the future (more than one year)
-SCHEDULE_STATUS_PRIVATE	You cannot schedule a message until the person comes online if their privacy does not show this information
-SCHEDULE_TOO_MUCH	You tried to schedule too many messages in this chat
-SCORE_INVALID	The specified game score is invalid
-SEARCH_QUERY_EMPTY	The search query is empty
-SEARCH_WITH_LINK_NOT_SUPPORTED	You cannot provide a search query and an invite link at the same time
-SECONDS_INVALID	The seconds interval is invalid
-SEND_AS_PEER_INVALID	You can't send messages as the specified peer
-SEND_MESSAGE_MEDIA_INVALID	The message media is invalid
-SEND_MESSAGE_TYPE_INVALID	The message type is invalid
-SESSION_TOO_FRESH_X	You can't do this action because the current session was logged-in recently
-SETTINGS_INVALID	Invalid settings were provided
-SHA256_HASH_INVALID	The provided SHA256 hash is invalid
+POLL_OPTION_INVALID Opsi jajak pendapat menggunakan data yang tidak valid (data mungkin terlalu panjang)
+POLL_QUESTION_INVALID Pertanyaan jajak pendapat tidak valid
+POLL_UNSUPPORTED Lapisan ini tidak mendukung jajak pendapat dalam metode yang dipanggil
+POLL_VOTE_REQUIRED Anda harus memberikan suara dalam jajak pendapat sebelum memanggil metode ini
+PREMIUM_ACCOUNT_REQUIRED Metode ini memerlukan akun pengguna premium
+PREMIUM_GIFTCODE_WAS_REFUNDED Kode hadiah ini tidak dapat ditebus karena penyelenggara giveaway meminta pengembalian dana
+PRIVACY_KEY_INVALID Kunci privasi tidak valid
+PRIVACY_TOO_LONG Daftar pengecualian privasi Anda telah melebihi kapasitas maksimum
+PRIVACY_VALUE_INVALID Nilai privasi tidak valid
+PUBLIC_BROADCAST_EXPECTED Kanal publik diharapkan, tetapi yang lain disediakan
+PUBLIC_KEY_REQUIRED Kunci publik diperlukan
+QUERY_ID_EMPTY ID kueri kosong
+QUERY_ID_INVALID ID kueri callback tidak valid
+QUERY_TOO_SHORT Kueri terlalu pendek
+QUIZ_ANSWER_MISSING Anda dapat meneruskan kuis sambil menyembunyikan penulis asli hanya setelah memilih opsi dalam kuis
+QUIZ_CORRECT_ANSWERS_EMPTY Jawaban yang benar dari kuis kosong
+QUIZ_CORRECT_ANSWERS_TOO_MUCH Kuis mengandung terlalu banyak jawaban yang benar
+QUIZ_CORRECT_ANSWER_INVALID Jawaban yang benar dari kuis tidak valid
+QUIZ_MULTIPLE_INVALID Kuis tidak dapat memiliki beberapa jawaban
+QUOTE_TEXT_INVALID Teks kutipan tidak valid
+RANDOM_ID_EMPTY ID acak kosong
+RANDOM_ID_INVALID ID acak yang diberikan tidak valid
+RANDOM_LENGTH_INVALID Panjang acak tidak valid
+RANGES_INVALID Rentang yang diberikan tidak valid
+REACTIONS_TOO_MANY Pengguna non-premium hanya dapat mengatur satu reaksi per pesan
+REACTION_EMPTY Reaksi yang diberikan kosong
+REACTION_INVALID Reaksi yang diberikan tidak valid (hanya emoji yang valid yang diizinkan)
+REFLECTOR_NOT_AVAILABLE Reflektor panggilan tidak tersedia
+REPLY_MARKUP_BUY_EMPTY Markup balasan untuk tombol beli kosong
+REPLY_MARKUP_GAME_EMPTY Markup balasan yang diberikan untuk permainan kosong
+REPLY_MARKUP_INVALID Markup balasan yang diberikan tidak valid
+REPLY_MARKUP_TOO_LONG Markup balasan terlalu panjang
+REPLY_MESSAGE_ID_INVALID ID pesan balasan tidak valid
+REPLY_TO_INVALID Bidang `reply_to` yang ditentukan tidak valid.
+REPLY_TO_USER_INVALID Pengguna yang dibalas tidak valid.
+RESET_REQUEST_MISSING Tidak ada permintaan reset kata sandi yang sedang berlangsung
+RESULTS_TOO_MUCH Hasil mengandung terlalu banyak item
+RESULT_ID_DUPLICATE Hasil mengandung item dengan pengenal duplikat
+RESULT_ID_EMPTY ID hasil kosong
+RESULT_ID_INVALID Hasil yang diberikan tidak dapat digunakan untuk mengirim pemilihan ke bot
+RESULT_TYPE_INVALID Tipe hasil tidak valid
+REVOTE_NOT_ALLOWED Anda tidak dapat mengubah suara Anda
+RIGHTS_NOT_MODIFIED Hak admin baru sama dengan hak lama, tidak ada perubahan yang dibuat
+RSA_DECRYPT_FAILED Dekripsi RSA internal gagal
+SAVED_DIALOGS_UNSUPPORTED Anda tidak dapat menggunakan metode ini
+SCHEDULE_BOT_NOT_ALLOWED Bot tidak diizinkan untuk menjadwalkan pesan
+SCHEDULE_DATE_INVALID Tanggal jadwal yang diberikan tidak valid
+SCHEDULE_DATE_TOO_LATE Tanggal yang Anda coba jadwalkan terlalu jauh ke depan (lebih dari satu tahun)
+SCHEDULE_STATUS_PRIVATE Anda tidak dapat menjadwalkan pesan sampai orang tersebut online jika privasi mereka tidak menunjukkan informasi ini
+SCHEDULE_TOO_MUCH Anda mencoba menjadwalkan terlalu banyak pesan di obrolan ini
+SCORE_INVALID Skor permainan yang ditentukan tidak valid
+SEARCH_QUERY_EMPTY Kueri pencarian kosong
+SEARCH_WITH_LINK_NOT_SUPPORTED Anda tidak dapat memberikan kueri pencarian dan tautan undangan sekaligus
+SECONDS_INVALID Interval detik tidak valid
+SEND_AS_PEER_INVALID Anda tidak dapat mengirim pesan sebagai peer yang ditentukan
+SEND_MESSAGE_MEDIA_INVALID Media pesan tidak valid
+SEND_MESSAGE_TYPE_INVALID Tipe pesan tidak valid
+SESSION_TOO_FRESH_X Anda tidak dapat melakukan tindakan ini karena sesi saat ini baru saja login
+SETTINGS_INVALID Pengaturan yang diberikan tidak valid
+SHA256_HASH_INVALID Hash SHA256 yang diberikan tidak valid
 SHORTNAME_OCCUPY_FAILED	An error occurred when trying to register the short-name used for the sticker pack. Try a different name
 SHORT_NAME_INVALID	The specified short name is invalid
 SHORT_NAME_OCCUPIED	The specified short name is already in use
