@@ -1,48 +1,48 @@
 id	message
-ANONYMOUS_REACTIONS_DISABLED	Sorry, anonymous administrators cannot leave reactions or participate in polls.
-BROADCAST_FORBIDDEN	The request can't be used in channels
-CHANNEL_PUBLIC_GROUP_NA	The channel/supergroup is not available
-CHAT_ADMIN_INVITE_REQUIRED	You don't have rights to invite other users
-CHAT_ADMIN_REQUIRED	The method requires chat admin privileges
-CHAT_FORBIDDEN	You cannot write in this chat
-CHAT_GUEST_SEND_FORBIDDEN	You need to join the discussion group before commenting
-CHAT_SEND_AUDIOS_FORBIDDEN	You can't send audio messages in this chat
-CHAT_SEND_DOCS_FORBIDDEN	You can't send documents in this chat.
-CHAT_SEND_GAME_FORBIDDEN	You can't send a game to this chat
-CHAT_SEND_GIFS_FORBIDDEN	You can't send animations in this chat
-CHAT_SEND_INLINE_FORBIDDEN	You cannot use inline bots to send messages in this chat
-CHAT_SEND_MEDIA_FORBIDDEN	You can't send media messages in this chat
-CHAT_SEND_PHOTOS_FORBIDDEN	You can't send photos in this chat
-CHAT_SEND_PLAIN_FORBIDDEN	You can't send non-media (text) messages in this chat
-CHAT_SEND_POLL_FORBIDDEN	You can't send polls in this chat
-CHAT_SEND_ROUNDVIDEOS_FORBIDDEN	You cannot send video notes in this chat
-CHAT_SEND_STICKERS_FORBIDDEN	You can't send stickers in this chat
-CHAT_SEND_VIDEOS_FORBIDDEN	You can't send videos in this chat
-CHAT_SEND_VOICES_FORBIDDEN	You can't send voice recordings in this chat
-CHAT_WRITE_FORBIDDEN	You don't have rights to send messages in this chat
-EDIT_BOT_INVITE_FORBIDDEN	Bots' chat invite links can't be edited
-GROUPCALL_ALREADY_STARTED	The groupcall has already started, you can join directly using phone.joinGroupCall
-GROUPCALL_FORBIDDEN	The group call has already ended
-INLINE_BOT_REQUIRED	The action must be performed through an inline bot callback
-LIVE_DISABLED	Story is disabled server-side
-MESSAGE_AUTHOR_REQUIRED	You are not the author of this message
-MESSAGE_DELETE_FORBIDDEN	You don't have rights to delete messages in this chat, most likely because you are not the author of them
-NOT_ALLOWED	Not allowed
-NOT_ELIGIBLE	You are not eligible for this action
-PARTICIPANT_JOIN_MISSING	Trying to enable a presentation, when the user hasn't joined the Video Chat with phone.joinGroupCall
-POLL_VOTE_REQUIRED	Cast a vote in the poll before calling this method
-PREMIUM_ACCOUNT_REQUIRED	This action requires a premium account
-PRIVACY_PREMIUM_REQUIRED	The user has restricted from sending messages or this action requires a premium account
-PUBLIC_CHANNEL_MISSING	You can only export group call invite links for public chats or channels
-RIGHT_FORBIDDEN	You don't have enough rights for this action, or you tried to set one or more admin rights that can't be applied to this kind of chat (channel or supergroup)
-SENSITIVE_CHANGE_FORBIDDEN	Your sensitive content settings can't be changed at this time
-TAKEOUT_REQUIRED	The method must be invoked inside a takeout session
-USER_BOT_INVALID	This method can only be called by a bot
-USER_CHANNELS_TOO_MUCH	One of the users you tried to add is already in too many channels/supergroups
-USER_DELETED	You can't send this secret message because the other participant deleted their account
-USER_INVALID	The provided user is invalid
-USER_IS_BLOCKED	The user is blocked
-USER_NOT_MUTUAL_CONTACT	The provided user is not a mutual contact
-USER_PRIVACY_RESTRICTED	The user's privacy settings is preventing you to perform this action
-USER_RESTRICTED	You are limited/restricted. You can't perform this action
-VOICE_MESSAGES_FORBIDDEN	This user's privacy settings forbid you from sending voice messages.
+ANONYMOUS_REACTIONS_DISABLED	Maaf, administrator anonim tidak dapat memberikan reaksi atau berpartisipasi dalam jajak pendapat.
+BROADCAST_FORBIDDEN	Permintaan ini tidak dapat digunakan di saluran.
+CHANNEL_PUBLIC_GROUP_NA	Saluran/supergrup ini tidak tersedia.
+CHAT_ADMIN_INVITE_REQUIRED	Anda tidak memiliki hak untuk mengundang pengguna lain.
+CHAT_ADMIN_REQUIRED	Metode ini memerlukan hak admin obrolan.
+CHAT_FORBIDDEN	Anda tidak dapat menulis di obrolan ini.
+CHAT_GUEST_SEND_FORBIDDEN	Anda perlu bergabung dengan grup diskusi sebelum berkomentar.
+CHAT_SEND_AUDIOS_FORBIDDEN	Anda tidak dapat mengirim pesan audio di obrolan ini.
+CHAT_SEND_DOCS_FORBIDDEN	Anda tidak dapat mengirim dokumen di obrolan ini.
+CHAT_SEND_GAME_FORBIDDEN	Anda tidak dapat mengirim game ke obrolan ini.
+CHAT_SEND_GIFS_FORBIDDEN	Anda tidak dapat mengirim animasi di obrolan ini.
+CHAT_SEND_INLINE_FORBIDDEN	Anda tidak dapat menggunakan bot inline untuk mengirim pesan di obrolan ini.
+CHAT_SEND_MEDIA_FORBIDDEN	Anda tidak dapat mengirim pesan media di obrolan ini.
+CHAT_SEND_PHOTOS_FORBIDDEN	Anda tidak dapat mengirim foto di obrolan ini.
+CHAT_SEND_PLAIN_FORBIDDEN	Anda tidak dapat mengirim pesan non-media (teks) di obrolan ini.
+CHAT_SEND_POLL_FORBIDDEN	Anda tidak dapat mengirim jajak pendapat di obrolan ini.
+CHAT_SEND_ROUNDVIDEOS_FORBIDDEN	Anda tidak dapat mengirim catatan video di obrolan ini.
+CHAT_SEND_STICKERS_FORBIDDEN	Anda tidak dapat mengirim stiker di obrolan ini.
+CHAT_SEND_VIDEOS_FORBIDDEN	Anda tidak dapat mengirim video di obrolan ini.
+CHAT_SEND_VOICES_FORBIDDEN	Anda tidak dapat mengirim rekaman suara di obrolan ini.
+CHAT_WRITE_FORBIDDEN	Anda tidak memiliki hak untuk mengirim pesan di obrolan ini.
+EDIT_BOT_INVITE_FORBIDDEN	Link undangan obrolan bot tidak dapat diedit.
+GROUPCALL_ALREADY_STARTED	Panggilan grup telah dimulai, Anda bisa langsung bergabung dengan menggunakan phone.joinGroupCall.
+GROUPCALL_FORBIDDEN	Panggilan grup sudah berakhir.
+INLINE_BOT_REQUIRED	Aksi ini harus dilakukan melalui callback bot inline.
+LIVE_DISABLED	Cerita dinonaktifkan di sisi server.
+MESSAGE_AUTHOR_REQUIRED	Anda bukan penulis pesan ini.
+MESSAGE_DELETE_FORBIDDEN	Anda tidak memiliki hak untuk menghapus pesan di obrolan ini, kemungkinan besar karena Anda bukan penulisnya.
+NOT_ALLOWED	Tidak diizinkan.
+NOT_ELIGIBLE	Anda tidak memenuhi syarat untuk melakukan tindakan ini.
+PARTICIPANT_JOIN_MISSING	Mencoba mengaktifkan presentasi, namun pengguna belum bergabung dengan Obrolan Video melalui phone.joinGroupCall.
+POLL_VOTE_REQUIRED	Berikan suara dalam jajak pendapat sebelum memanggil metode ini.
+PREMIUM_ACCOUNT_REQUIRED	Tindakan ini memerlukan akun premium.
+PRIVACY_PREMIUM_REQUIRED	Pengguna membatasi pengiriman pesan atau tindakan ini memerlukan akun premium.
+PUBLIC_CHANNEL_MISSING	Anda hanya bisa mengekspor link undangan panggilan grup untuk obrolan atau saluran publik.
+RIGHT_FORBIDDEN	Anda tidak memiliki cukup hak untuk tindakan ini, atau Anda mencoba menetapkan satu atau lebih hak admin yang tidak dapat diterapkan pada jenis obrolan ini (saluran atau supergrup).
+SENSITIVE_CHANGE_FORBIDDEN	Pengaturan konten sensitif Anda tidak dapat diubah saat ini.
+TAKEOUT_REQUIRED	Metode ini harus dipanggil di dalam sesi takeout.
+USER_BOT_INVALID	Metode ini hanya dapat dipanggil oleh bot.
+USER_CHANNELS_TOO_MUCH	Salah satu pengguna yang Anda coba tambahkan sudah berada di terlalu banyak saluran/supergrup.
+USER_DELETED	Anda tidak dapat mengirim pesan rahasia ini karena peserta lainnya telah menghapus akun mereka.
+USER_INVALID	Pengguna yang diberikan tidak valid.
+USER_IS_BLOCKED	Pengguna ini diblokir.
+USER_NOT_MUTUAL_CONTACT	Pengguna yang diberikan bukan kontak bersama.
+USER_PRIVACY_RESTRICTED	Pengaturan privasi pengguna mencegah Anda melakukan tindakan ini.
+USER_RESTRICTED	Anda dibatasi. Anda tidak dapat melakukan tindakan ini.
+VOICE_MESSAGES_FORBIDDEN	Pengaturan privasi pengguna ini melarang Anda mengirim pesan suara.
