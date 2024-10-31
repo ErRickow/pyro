@@ -298,46 +298,46 @@ PASSWORD_MISSING Akun tidak memiliki kata sandi verifikasi dua langkah
 PASSWORD_RECOVERY_EXPIRED Kode pemulihan telah kadaluarsa.
 PASSWORD_RECOVERY_NA Email pemulihan kata sandi tidak tersedia
 PASSWORD_REQUIRED Kata sandi verifikasi dua langkah diperlukan untuk metode ini
-PASSWORD_TOO_FRESH_X	The two-step verification password was added recently and you are required to wait {value} seconds
-PAYMENT_PROVIDER_INVALID	The payment provider was not recognised or its token was invalid
-PEERS_LIST_EMPTY	The specified list of peers is empty.
-PEER_FLOOD	The method can't be used because your account is currently limited
-PEER_HISTORY_EMPTY	Peer history empty
-PEER_ID_INVALID	The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it
-PEER_ID_NOT_SUPPORTED	The provided peer id is not supported
-PERSISTENT_TIMESTAMP_EMPTY	The pts argument is empty
-PERSISTENT_TIMESTAMP_INVALID	The persistent timestamp is invalid
-PHONE_CODE_EMPTY	The phone code is missing
-PHONE_CODE_EXPIRED	The confirmation code has expired
-PHONE_CODE_HASH_EMPTY	The phone code hash is missing
-PHONE_CODE_INVALID	The confirmation code is invalid
-PHONE_HASH_EXPIRED	An invalid or expired phone_code_hash was provided
-PHONE_NOT_OCCUPIED	No user is associated to the specified phone number
-PHONE_NUMBER_APP_SIGNUP_FORBIDDEN	You can't sign up using this app
-PHONE_NUMBER_BANNED	The phone number is banned from Telegram and cannot be used
-PHONE_NUMBER_FLOOD	This number has tried to login too many times
-PHONE_NUMBER_INVALID	The phone number is invalid
-PHONE_NUMBER_OCCUPIED	The phone number is already in use
-PHONE_NUMBER_UNOCCUPIED	The phone number is not yet being used
-PHONE_PASSWORD_PROTECTED	The phone is password protected
-PHOTO_CONTENT_TYPE_INVALID	The photo content type is invalid
-PHOTO_CONTENT_URL_EMPTY	The photo content URL is empty
-PHOTO_CROP_FILE_MISSING	Photo crop file missing
-PHOTO_CROP_SIZE_SMALL	The photo is too small
-PHOTO_EXT_INVALID	The photo extension is invalid
-PHOTO_FILE_MISSING	Profile photo file missing
-PHOTO_ID_INVALID	The photo id is invalid
-PHOTO_INVALID	The photo is invalid
-PHOTO_INVALID_DIMENSIONS	The photo dimensions are invalid
-PHOTO_SAVE_FILE_INVALID	The photo you tried to send cannot be saved by Telegram
-PHOTO_THUMB_URL_EMPTY	The photo thumb URL is empty
-PHOTO_THUMB_URL_INVALID	The photo thumb URL is invalid
-PINNED_DIALOGS_TOO_MUCH	Too many pinned dialogs
-PIN_RESTRICTED	You can't pin messages in private chats with other people
-PLATFORM_INVALID	The provided platform is invalid. Allowed values are "android", "ios", "wp", "bb", "desktop", "web", "ubp", "other".
-POLL_ANSWERS_INVALID	The poll answers are invalid
-POLL_ANSWER_INVALID	One of the poll answers is not acceptable
-POLL_OPTION_DUPLICATE	A duplicate option was sent in the same poll
+PASSWORD_TOO_FRESH_X Kata sandi verifikasi dua langkah baru saja ditambahkan dan Anda diharuskan menunggu {value} detik
+PAYMENT_PROVIDER_INVALID Penyedia pembayaran tidak dikenali atau tokennya tidak valid
+PEERS_LIST_EMPTY Daftar peers yang ditentukan kosong.
+PEER_FLOOD Metode ini tidak dapat digunakan karena akun Anda saat ini terbatas
+PEER_HISTORY_EMPTY Riwayat peer kosong
+PEER_ID_INVALID ID peer yang digunakan tidak valid atau belum diketahui. Pastikan Anda bertemu dengan peer sebelum berinteraksi dengannya
+PEER_ID_NOT_SUPPORTED ID peer yang diberikan tidak didukung
+PERSISTENT_TIMESTAMP_EMPTY Argumen pts kosong
+PERSISTENT_TIMESTAMP_INVALID Timestamp persisten tidak valid
+PHONE_CODE_EMPTY Kode telepon hilang
+PHONE_CODE_EXPIRED Kode konfirmasi telah kadaluarsa
+PHONE_CODE_HASH_EMPTY Hash kode telepon hilang
+PHONE_CODE_INVALID Kode konfirmasi tidak valid
+PHONE_HASH_EXPIRED Hash kode telepon yang tidak valid atau telah kadaluarsa diberikan
+PHONE_NOT_OCCUPIED Tidak ada pengguna yang terkait dengan nomor telepon yang ditentukan
+PHONE_NUMBER_APP_SIGNUP_FORBIDDEN Anda tidak dapat mendaftar menggunakan aplikasi ini
+PHONE_NUMBER_BANNED Nomor telepon dibanned dari Telegram dan tidak dapat digunakan
+PHONE_NUMBER_FLOOD Nomor ini telah mencoba login terlalu banyak kali
+PHONE_NUMBER_INVALID Nomor telepon tidak valid
+PHONE_NUMBER_OCCUPIED Nomor telepon sudah digunakan
+PHONE_NUMBER_UNOCCUPIED Nomor telepon belum digunakan
+PHONE_PASSWORD_PROTECTED Ponsel dilindungi dengan kata sandi
+PHOTO_CONTENT_TYPE_INVALID Tipe konten foto tidak valid
+PHOTO_CONTENT_URL_EMPTY URL konten foto kosong
+PHOTO_CROP_FILE_MISSING File pemangkasan foto hilang
+PHOTO_CROP_SIZE_SMALL Foto terlalu kecil
+PHOTO_EXT_INVALID Ekstensi foto tidak valid
+PHOTO_FILE_MISSING File foto profil hilang
+PHOTO_ID_INVALID ID foto tidak valid
+PHOTO_INVALID Foto tidak valid
+PHOTO_INVALID_DIMENSIONS Dimensi foto tidak valid
+PHOTO_SAVE_FILE_INVALID Foto yang Anda coba kirim tidak dapat disimpan oleh Telegram
+PHOTO_THUMB_URL_EMPTY URL thumbnail foto kosong
+PHOTO_THUMB_URL_INVALID URL thumbnail foto tidak valid
+PINNED_DIALOGS_TOO_MUCH Terlalu banyak dialog yang dipin
+PIN_RESTRICTED Anda tidak dapat mem-pin pesan dalam obrolan pribadi dengan orang lain
+PLATFORM_INVALID Platform yang diberikan tidak valid. Nilai yang diizinkan adalah "android", "ios", "wp", "bb", "desktop", "web", "ubp", "lainnya".
+POLL_ANSWERS_INVALID Jawaban jajak pendapat tidak valid
+POLL_ANSWER_INVALID Salah satu jawaban jajak pendapat tidak dapat diterima
+POLL_OPTION_DUPLICATE Opsi duplikat dikirim dalam jajak pendapat yang sama
 POLL_OPTION_INVALID	A poll option used invalid data (the data may be too long)
 POLL_QUESTION_INVALID	The poll question is invalid
 POLL_UNSUPPORTED	This layer does not support polls in the invoked method
