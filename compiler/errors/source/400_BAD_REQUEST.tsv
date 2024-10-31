@@ -1,531 +1,531 @@
 id	message
-ABOUT_TOO_LONG	  about/bio text is too long
+ABOUT_TOO_LONG	  about/bio text terlalu panjang
 ACCESS_TOKEN_EXPIRED	 bot token has expired
-ACCESS_TOKEN_INVALID	 bot access token is invalid
-ADDRESS_INVALID	 specified geopoint address is invalid.
-ADMINS_TOO_MUCH	 chat has too many administrators
-ADMIN_ID_INVALID	 specified admin ID is invalid
-ADMIN_RANK_EMOJI_NOT_ALLOWED	Emoji are not allowed in custom administrator titles
-ADMIN_RANK_INVALID	 custom administrator title is invalid or too long
+ACCESS_TOKEN_INVALID	 bot access token invalid
+ADDRESS_INVALID	 Spesifik geopoint address invalid.
+ADMINS_TOO_MUCH	 chat has terlalu banyak administrators
+ADMIN_ID_INVALID	 Spesifik admin ID invalid
+ADMIN_RANK_EMOJI_NOT_ALLOWED	Emoji are Tidak diperbolehkan in custom administrator titles
+ADMIN_RANK_INVALID	 custom administrator title invalid or too long
 ADMIN_RIGHTS_EMPTY	 chatAdminRights constructor passed in keyboardButtonRequestPeer.peer_type.user_admin_rights has no rights set (i.e. flags is 0).
-ALBUM_PHOTOS_TOO_MANY	Too many photos were included in  album
-API_ID_INVALID	 api_id/api_hash combination is invalid
-API_ID_PUBLISHED_FLOOD	Kamu are using an API key that is limited on  server side because it was published somewhere
-ARTICLE_TITLE_EMPTY	 article title is empty
-AUDIO_CONTENT_URL_EMPTY	 remote URL specified in  content field is empty
-AUDIO_TITLE_EMPTY	 title attribute of  audio is empty
+ALBUM_PHOTOS_TOO_MANY	terlalu banyak photos were included in  album
+API_ID_INVALID	 api_id/api_hash combination invalid
+API_ID_PUBLISHED_FLOOD	Kamu are using an API key that is limited on  server side karena it was published somewhere
+ARTICLE_TITLE_EMPTY	 article title kosong
+AUDIO_CONTENT_URL_EMPTY	 remote URL Spesifik in  content field kosong
+AUDIO_TITLE_EMPTY	 title attribute of  audio kosong
 AUTH_BYTES_INVALID	 authorization bytes are invalid
-AUTH_TOKEN_ALREADY_ACCEPTED	 authorization token was already used
+AUTH_TOKEN_ALREADY_ACCEPTED	 authorization token telah digunakan
 AUTH_TOKEN_EXCEPTION	An error occurred while importing  auth token
-AUTH_TOKEN_EXPIRED	  authorization token has expired and  updated QR-code must be re-scanned
+AUTH_TOKEN_EXPIRED	  authorization token has expired dan  updated QR-code must be re-scanned
 AUTH_TOKEN_INVALID	An invalid authorization token was 
 AUTH_TOKEN_INVALID2	An invalid authorization token was 
-AUTH_TOKEN_INVALIDX	 specified auth token is invalid
-AUTOARCHIVE_NOT_AVAILABLE	This feature is not yet enabled for Kamur account due to it not receiving too many private pesan from strangers
-BALANCE_TOO_LOW	Kamur stars balance too low
-BANK_CARD_NUMBER_INVALID	 credit card number is invalid
-BANNED_RIGHTS_INVALID	Kamu  a set of restrictions that is invalid
-BASE_PORT_LOC_INVALID	 base port location is invalid
+AUTH_TOKEN_INVALIDX	 Spesifik auth token invalid
+AUTOARCHIVE_NOT_AVAILABLE	Fitur ini belum di aktifkan untuk akun kamu karena tidak menerima terlalu banyak private pesan dari orang tidak dikenal
+BALANCE_TOO_LOW	Stars balance kamu terlalu rendah
+BANK_CARD_NUMBER_INVALID	 credit card number invalid
+BANNED_RIGHTS_INVALID	Kamu  a set of restrictions that invalid
+BASE_PORT_LOC_INVALID	 base port location invalid
 BIRTHDAY_INVALID	 age should be less than 150 year old in Telegram
 BOOSTS_EMPTY	Boosts empty
 BOOSTS_REQUIRED	Boosts required
-BOOST_NOT_MODIFIED	Kamu're already [boosting](https://core.telegram.org/api/boost)  specified channel.
-BOOST_PEER_INVALID	 specified `boost_peer` is invalid.
-BOTS_TOO_MUCH	 chat has too many bots
-BOT_APP_INVALID	 specified bot app is invalid.
-BOT_APP_SHORTNAME_INVALID	 specified bot app short name is invalid.
-BOT_CHANNELS_NA	Bots can't edit admin privileges
-BOT_COMMAND_DESCRIPTION_INVALID	 command description was empty, too long or had invalid characters
-BOT_COMMAND_INVALID	 specified command is invalid
-BOT_DOMAIN_INVALID	 domain used for  auth button does not match  one configured in @BotFar
-BOT_GAMES_DISABLED	Bot games tidak bisa be used in this type of chat
-BOT_GROUPS_BLOCKED	This bot can't be added to groups
+BOOST_NOT_MODIFIED	Kamu're already [boosting](https://core.telegram.org/api/boost)  Spesifik channel.
+BOOST_PEER_INVALID	 Spesifik `boost_peer` invalid.
+BOTS_TOO_MUCH	 chat has terlalu banyak bots
+BOT_APP_INVALID	 Spesifik bot app invalid.
+BOT_APP_SHORTNAME_INVALID	 Spesifik bot app short name invalid.
+BOT_CHANNELS_NA	Bots tidak bisa edit admin privileges
+BOT_COMMAND_DESCRIPTION_INVALID	 commdan description was empty, too long or had invalid characters
+BOT_COMMAND_INVALID	 Spesifik commdan invalid
+BOT_DOMAIN_INVALID	 domain digunakan untuk  auth button does not match  one configured in @BotFar
+BOT_GAMES_DISABLED	Bot games tidak bisa digunakan in this type of chat
+BOT_GROUPS_BLOCKED	This bot tidak bisa be added to groups
 BOT_INLINE_DISABLED	 inline feature of  bot is disabled
-BOT_INVALID	This is not a valid bot
-BOT_METHOD_INVALID	 method can't be used by bots
-BOT_MISSING	This method can only be run by a bot
-BOT_ONESIDE_NOT_AVAIL	Bots can't pin pesan for one side only in private chats
-BOT_PAYMENTS_DISABLED	This method can only be run by a bot
-BOT_POLLS_DISABLED	Sending polls by bots has been disabled
-BOT_RESPONSE_TIMEOUT	 bot did not answer to  callback query in time
+BOT_INVALID	This is bukan valid bot
+BOT_METHOD_INVALID	 method tidak bisa be digunakan oleh bots
+BOT_MISSING	Method ini hanya bisa run by a bot
+BOT_ONESIDE_NOT_AVAIL	Bots tidak bisa pin pesan for one side only in private chats
+BOT_PAYMENTS_DISABLED	Method ini hanya bisa run by a bot
+BOT_POLLS_DISABLED	Sending polls by bots telah disabled
+BOT_RESPONSE_TIMEOUT	 bot did bukannswer to  callback query in time
 BOT_SCORE_NOT_MODIFIED	 bot score tidak dimodifikasi
-BOT_WEBVIEW_DISABLED	A webview tidak bisa be opened in  specified conditions: emitted for example if `from_bot_menu` or `url` are set and `peer` is not  chat with  bot.
+BOT_WEBVIEW_DISABLED	A webview tidak bisa be opened in  Spesifik conditions: emitted for example if `from_bot_menu` or `url` are set dan `peer` is not  chat with  bot.
 BROADCAST_CALLS_DISABLED	Broadcast calls disabled
-BROADCAST_ID_INVALID	 channel is invalid
-BROADCAST_PUBLIC_VOTERS_FORBIDDEN	Polls with public voters tidak bisa be sent in channels
-BROADCAST_REQUIRED	 request can only be used with a channel
-BUTTON_DATA_INVALID	 button callback data is invalid or too large
-BUTTON_ID_INVALID	 button_id parameter is invalid
-BUTTON_TEXT_INVALID	 specified button text is invalid
-BUTTON_TYPE_INVALID	 type of one of  buttons Kamu  is invalid
-BUTTON_URL_INVALID	 button url is invalid
-BUTTON_USER_INVALID	 user_id passed to inputKeyboardButtonUserProfile is invalid
-BUTTON_USER_PRIVACY_RESTRICTED	 privacy settings of  user specified in a keyboard button do not allow creating such button
+BROADCAST_ID_INVALID	 channel invalid
+BROADCAST_PUBLIC_VOTERS_FORBIDDEN	Polls with public voters tidak bisa dikirim ke channels
+BROADCAST_REQUIRED	 request hanya bisa used dengan channel
+BUTTON_DATA_INVALID	 button callback data invalid or too large
+BUTTON_ID_INVALID	 button_id parameter invalid
+BUTTON_TEXT_INVALID	 Spesifik button text invalid
+BUTTON_TYPE_INVALID	 type of one of  buttons Kamu  invalid
+BUTTON_URL_INVALID	 button url invalid
+BUTTON_USER_INVALID	 user_id passed to inputKeyboardButtonUserProfile invalid
+BUTTON_USER_PRIVACY_RESTRICTED	 privacy settings of  user Spesifik in a keyboard button do bukanllow creating such button
 CALL_ALREADY_ACCEPTED	 call is already accepted
 CALL_ALREADY_DECLINED	 call is already declined
-CALL_OCCUPY_FAILED	 call failed because  user is already making anor call.
-CALL_PEER_INVALID	  call peer object is invalid
+CALL_OCCUPY_FAILED	 call failed karena  Pengguna already making anor call.
+CALL_PEER_INVALID	  call peer object invalid
 CALL_PROTOCOL_FLAGS_INVALID	Call protocol flags invalid
-CDN_METHOD_INVALID	 method can't be used on CDN DCs
+CDN_METHOD_INVALID	 method tidak bisa digunakan on CDN DCs
 CHANNELS_ADMIN_LOCATED_TOO_MUCH	 user has reached  limit of public geogroups
-CHANNELS_ADMIN_PUBLIC_TOO_MUCH	Kamu are an administrator of too many public channels
-CHANNELS_TOO_MUCH	Kamu have joined too many channels or supergroups, leave some and try again
+CHANNELS_ADMIN_PUBLIC_TOO_MUCH	Kamu are an administrator of terlalu banyak public channels
+CHANNELS_TOO_MUCH	Kamu have bergabung terlalu banyak channels atau supergroups, leave some dan coba lagi
 CHANNEL_ADD_INVALID	Internal error.
-CHANNEL_BANNED	 channel is banned
-CHANNEL_FORUM_MISSING	 channel forum is missing
-CHANNEL_ID_INVALID	 specified supergroup ID is invalid.
-CHANNEL_INVALID	 channel parameter is invalid
-CHANNEL_PARICIPANT_MISSING	 current user is not in  channel
-CHANNEL_PRIVATE	 channel/supergroup is not accessible
+CHANNEL_BANNED	 channel terbanned
+CHANNEL_FORUM_MISSING	 channel forum tidak ada
+CHANNEL_ID_INVALID	 Spesifik supergroup ID invalid.
+CHANNEL_INVALID	 channel parameter invalid
+CHANNEL_PARICIPANT_MISSING	 saat ini Pengguna not in  channel
+CHANNEL_PRIVATE	 channel/supergroup tidak dapat di akses
 CHANNEL_TOO_BIG	 channel too big
 CHANNEL_TOO_LARGE	 channel is too large
-CHARGE_ALREADY_REFUNDED	 charge id was already used for a refund.
-CHARGE_NOT_FOUND	 charge id was not found.
-CHATLISTS_TOO_MUCH	Kamu have too much chatlists on Kamur account
-CHATLIST_EXCLUDE_INVALID	 specified `exclude_peers` are invalid.
-CHAT_ABOUT_NOT_MODIFIED	 chat about text tidak dimodifikasi because Kamu tried to edit it using  same content
-CHAT_ABOUT_TOO_LONG	 chat about text is too long
-CHAT_ADMIN_REQUIRED	 method requires chat admin privileges
-CHAT_DISCUSSION_UNALLOWED	 chat discussion is not allowed
+CHARGE_ALREADY_REFUNDED	 charge id telah digunakan for a refund.
+CHARGE_NOT_FOUND	 charge id was tidak ditemukan.
+CHATLISTS_TOO_MUCH	Kamu mempunyai banyak chatlists di akun kamu
+CHATLIST_EXCLUDE_INVALID	 Spesifik `exclude_peers` are invalid.
+CHAT_ABOUT_NOT_MODIFIED	 About Chat text tidak dimodifikasi karena Kamu mencoba edit it using  konten yang sama
+CHAT_ABOUT_TOO_LONG	 About Chat text terlalu panjang
+CHAT_ADMIN_REQUIRED	 Memerlukan chat admin privileges
+CHAT_DISCUSSION_UNALLOWED	 chat discussion is Tidak diperbolehkan
 CHAT_FORWARDS_RESTRICTED	 chat restricts forwarding content
-CHAT_ID_EMPTY	  chat id is empty
-CHAT_ID_INVALID	 chat id being used is invalid or not known yet. Make sure Kamu see  chat before interacting with it
-CHAT_INVALID	 chat is invalid
-CHAT_INVITE_PERMANENT	 chat invite link is primary
-CHAT_LINK_EXISTS	 action failed because  supergroup is linked to a channel
-CHAT_NOT_MODIFIED	 chat settings (title, permissions, photo, etc..) were not modified because Kamu tried to edit m using  same content
-CHAT_PUBLIC_REQUIRED	Kamu can only enable join requests in public groups.
-CHAT_RESTRICTED	 chat is restricted and tidak bisa be used
-CHAT_REVOKE_DATE_UNSUPPORTED	`min_date` and `max_date` are not available for using with non-user peers
-CHAT_SEND_INLINE_FORBIDDEN	Kamu tidak bisa use inline bots to send pesan in this chat
-CHAT_TITLE_EMPTY	 chat title is empty
+CHAT_ID_EMPTY	  chat id kosong
+CHAT_ID_INVALID	 chat id yang digunakan invalid atau tidak di ketahui. Pastikan Kamu melihat chat sebelum berinteraksi dengannya
+CHAT_INVALID	 chat invalid
+CHAT_INVITE_PERMANENT	 undangan chat link primary
+CHAT_LINK_EXISTS	 aksi gagal karena  supergroup linked ke channel
+CHAT_NOT_MODIFIED	 chat settings (title, permissions, photo, etc..) were not modified karena Kamu mencoba to edit pesan using konten yang sama
+CHAT_PUBLIC_REQUIRED	Kamu hanya bisa mengaktifkan join requests in public groups.
+CHAT_RESTRICTED	 chat is restricted dan tidak bisa digunakan
+CHAT_REVOKE_DATE_UNSUPPORTED	`min_date` dan `max_date` are bukanvailable for using with non-user peers
+CHAT_SEND_INLINE_FORBIDDEN	Kamu tidak bisa use inline bots mengirim pesan in chat ini
+CHAT_TITLE_EMPTY	 chat title kosong
 CHAT_TOO_BIG	 chat is too big for this action
-CODE_EMPTY	  code is empty
+CODE_EMPTY	  code kosong
 CODE_HASH_INVALID	  code hash invalid
-CODE_INVALID	  code is invalid (i.e. from email)
-COLOR_INVALID	  color is invalid
-CONNECTION_API_ID_INVALID	  API id is invalid
-CONNECTION_APP_VERSION_EMPTY	App version is empty
-CONNECTION_DEVICE_MODEL_EMPTY	 device model is empty
-CONNECTION_LANG_PACK_INVALID	 specified language pack is not valid
-CONNECTION_LAYER_INVALID	 connection layer is invalid. Missing InvokeWithLayer-InitConnection call
+CODE_INVALID	  code invalid (i.e. from email)
+COLOR_INVALID	  color invalid
+CONNECTION_API_ID_INVALID	  API id invalid
+CONNECTION_APP_VERSION_EMPTY	App version kosong
+CONNECTION_DEVICE_MODEL_EMPTY	 device model kosong
+CONNECTION_LANG_PACK_INVALID	 Spesifik language pack is not valid
+CONNECTION_LAYER_INVALID	 connection layer invalid. Missing InvokeWithLayer-InitConnection call
 CONNECTION_NOT_INITED	 connection was not initialized
-CONNECTION_SYSTEM_EMPTY	 connection to  system is empty
-CONNECTION_SYSTEM_LANG_CODE_EMPTY	 system language code is empty
-CONTACT_ADD_MISSING	Contact to add is missing
-CONTACT_ID_INVALID	  contact id is invalid
-CONTACT_MISSING	 specified user is not a contact.
-CONTACT_NAME_EMPTY	  contact name is empty
+CONNECTION_SYSTEM_EMPTY	 connection to  system kosong
+CONNECTION_SYSTEM_LANG_CODE_EMPTY	 system language code kosong
+CONTACT_ADD_MISSING	Contact to add tidak ada
+CONTACT_ID_INVALID	  contact id invalid
+CONTACT_MISSING	 Spesifik Pengguna bukan contact.
+CONTACT_NAME_EMPTY	  contact name kosong
 CONTACT_REQ_MISSING	Missing contact request
 CREATE_CALL_FAILED	An error occurred while creating  call
-CURRENCY_TOTAL_AMOUNT_INVALID	 total amount of all prices is invalid
-CUSTOM_REACTIONS_TOO_MANY	Too many custom reactions were specified.
-DATA_INVALID	 encrypted data is invalid
-DATA_JSON_INVALID	  JSON data is invalid
+CURRENCY_TOTAL_AMOUNT_INVALID	 total amount of all prices invalid
+CUSTOM_REACTIONS_TOO_MANY	terlalu banyak custom reactions were Spesifik.
+DATA_INVALID	 encrypted data invalid
+DATA_JSON_INVALID	  JSON data invalid
 DATA_TOO_LONG	Data too long
-DATE_EMPTY	 date argument is empty
-DC_ID_INVALID	 dc_id parameter is invalid
+DATE_EMPTY	 date argument kosong
+DC_ID_INVALID	 dc_id parameter invalid
 DH_G_A_INVALID	 g_a parameter invalid
-DOCUMENT_INVALID	 document is invalid
-EMAIL_HASH_EXPIRED	 email hash expired and tidak bisa be used to verify it
-EMAIL_INVALID	 email  is invalid
-EMAIL_NOT_ALLOWED	This email is not allowed
+DOCUMENT_INVALID	 document invalid
+EMAIL_HASH_EXPIRED	 email hash expired dan tidak bisa digunakan to verify it
+EMAIL_INVALID	 email  invalid
+EMAIL_NOT_ALLOWED	This email is Tidak diperbolehkan
 EMAIL_NOT_SETUP	In order to change  login email with emailVerifyPurposeLoginChange, an existing login email must already be set using emailVerifyPurposeLoginSetup.
 EMAIL_UNCONFIRMED	Email unconfirmed
 EMAIL_UNCONFIRMED_X	  email isn't confirmed, {value} is  length of  verification code that was just sent to  email
 EMAIL_VERIFY_EXPIRED	 verification email has expired
-EMOJI_INVALID	 specified me emoji is valid
-EMOJI_MARKUP_INVALID	 specified `video_emoji_markup` was invalid.
+EMOJI_INVALID	 Spesifik me emoji is valid
+EMOJI_MARKUP_INVALID	 Spesifik `video_emoji_markup` was invalid.
 EMOJI_NOT_MODIFIED	 me wasn't changed
-EMOTICON_EMPTY	 emoticon parameter is empty
-EMOTICON_INVALID	 emoticon parameter is invalid
-EMOTICON_STICKERPACK_MISSING	 emoticon sticker pack Kamu are trying to obtain is missing
-ENCRYPTED_MESSAGE_INVALID	 special binding message (bind_auth_key_inner) contains invalid data
+EMOTICON_EMPTY	 emoticon parameter kosong
+EMOTICON_INVALID	 emoticon parameter invalid
+EMOTICON_STICKERPACK_MISSING	 emoticon sticker pack Kamu are mencoba untuk obtain tidak ada
+ENCRYPTED_MESSAGE_INVALID	 special binding pesan (bind_auth_key_inner) contains invalid data
 ENCRYPTION_ALREADY_ACCEPTED	 secret chat is already accepted
 ENCRYPTION_ALREADY_DECLINED	 secret chat is already declined
 ENCRYPTION_DECLINED	 secret chat was declined
-ENCRYPTION_ID_INVALID	  secret chat id is invalid
-ENTITIES_TOO_LONG	 entity  contains data that is too long, or Kamu passed too many entities to this message
-ENTITY_BOUNDS_INVALID	 message entity bounds are invalid
-ENTITY_MENTION_USER_INVALID	 mentioned entity is not an user
-ERROR_TEXT_EMPTY	  error message is empty
-EXPIRE_DATE_INVALID	 expiration date is invalid
+ENCRYPTION_ID_INVALID	  secret chat id invalid
+ENTITIES_TOO_LONG	 entity  contains data that terlalu panjang, or Kamu passed terlalu banyak entities to this message
+ENTITY_BOUNDS_INVALID	 pesan entity bounds are invalid
+ENTITY_MENTION_USER_INVALID	 mentioned entity is bukann user
+ERROR_TEXT_EMPTY	  error pesan kosong
+EXPIRE_DATE_INVALID	 expiration date invalid
 EXPIRE_FORBIDDEN	Expire forbidden
-EXPORT_CARD_INVALID	  card is invalid
+EXPORT_CARD_INVALID	  card invalid
 EXTENDED_MEDIA_AMOUNT_INVALID	 maximum amount of `star_count` should be less than  `stars_paid_post_amount_max` [client configuration parameters](/api/config).
-EXTENDED_MEDIA_PEER_INVALID	 specified chat type is invalid.
-EXTENDED_MEDIA_TYPE_INVALID	 specified extended media type is unsupported.
-EXTERNAL_URL_INVALID	 external media URL is invalid
-FIELD_NAME_EMPTY	 field with  name FIELD_NAME is missing
-FIELD_NAME_INVALID	 field with  name FIELD_NAME is invalid
-FILE_CONTENT_TYPE_INVALID	File content-type is invalid
+EXTENDED_MEDIA_PEER_INVALID	 Spesifik chat tipe invalid.
+EXTENDED_MEDIA_TYPE_INVALID	 Spesifik extended media type is unsupported.
+EXTERNAL_URL_INVALID	 external media URL invalid
+FIELD_NAME_EMPTY	 Nama field FIELD_NAME tidak ada
+FIELD_NAME_INVALID	 Nama field FIELD_NAME invalid
+FILE_CONTENT_TYPE_INVALID	File content-tipe invalid
 FILE_EMTPY	An empty file was 
-FILE_ID_INVALID	 file id is invalid
+FILE_ID_INVALID	 file id invalid
 FILE_MIGRATE_X	 file is in Data Center No. {value}
 FILE_PARTS_INVALID	Invalid number of parts.
 FILE_PART_0_MISSING	File part 0 missing
-FILE_PART_EMPTY	 file part sent is empty
-FILE_PART_INVALID	 file part number is invalid.
-FILE_PART_LENGTH_INVALID	 length of a file part is invalid
+FILE_PART_EMPTY	 file part sent kosong
+FILE_PART_INVALID	 file part number invalid.
+FILE_PART_LENGTH_INVALID	 length of a file part invalid
 FILE_PART_SIZE_CHANGED	 part size is different from  size of one of  previous parts in  same file
-FILE_PART_SIZE_INVALID	 file part size is invalid
-FILE_PART_TOO_BIG	 size limit for  content of  file part has been exceeded
-FILE_PART_X_MISSING	Part {value} of  file is missing from storage
-FILE_REFERENCE_EMPTY	 file id contains an empty file reference, Kamu must obtain a valid one by fetching  message from  origin context
-FILE_REFERENCE_EXPIRED	 file id contains an expired file reference, Kamu must obtain a valid one by fetching  message from  origin context
-FILE_REFERENCE_INVALID	 file id contains an invalid file reference, Kamu must obtain a valid one by fetching  message from  origin context
-FILE_TITLE_EMPTY	An empty file title was specified
-FILE_TOKEN_INVALID	 specified file token is invalid.
-FILTER_ID_INVALID	 specified filter ID is invalid
-FILTER_INCLUDE_EMPTY	 filter include is empty
-FILTER_NOT_SUPPORTED	 specified filter tidak bisa be used in this context
-FILTER_TITLE_EMPTY	 title field of  filter is empty
-FIRSTNAME_INVALID	 first name is invalid
-FOLDER_ID_EMPTY	 folder Kamu tried to delete was already empty
-FOLDER_ID_INVALID	 folder id is invalid
-FORM_ID_EXPIRED	 specified id has expired.
-FORUM_ENABLED	Kamu can't execute  specified action because  group is a [forum](https://core.telegram.org/api/forum), disable forum functionality to continue.
-FRESH_CHANGE_ADMINS_FORBIDDEN	Kamu can't change administrator settings in this chat because Kamur session was logged-in recently
-FROM_MESSAGE_BOT_DISABLED	Bots can't use fromMessage min constructors
-FROM_PEER_INVALID	 from peer value is invalid
+FILE_PART_SIZE_INVALID	 file part size invalid
+FILE_PART_TOO_BIG	 size limit for  content of  file part telah exceeded
+FILE_PART_X_MISSING	Part {value} of  file tidak ada from storage
+FILE_REFERENCE_EMPTY	 file id contains an empty file reference, Kamu must obtain a valid one by fetching  pesan from  origin context
+FILE_REFERENCE_EXPIRED	 file id contains an expired file reference, Kamu must obtain a valid one by fetching  pesan from  origin context
+FILE_REFERENCE_INVALID	 file id contains an invalid file reference, Kamu must obtain a valid one by fetching  pesan from  origin context
+FILE_TITLE_EMPTY	An empty file title was Spesifik
+FILE_TOKEN_INVALID	 Spesifik file token invalid.
+FILTER_ID_INVALID	 Spesifik filter ID invalid
+FILTER_INCLUDE_EMPTY	 filter include kosong
+FILTER_NOT_SUPPORTED	 Spesifik filter tidak bisa digunakan in this context
+FILTER_TITLE_EMPTY	 title field of  filter kosong
+FIRSTNAME_INVALID	 first name invalid
+FOLDER_ID_EMPTY	 folder Kamu mencoba to delete telah empty
+FOLDER_ID_INVALID	 folder id invalid
+FORM_ID_EXPIRED	 Spesifik id has expired.
+FORUM_ENABLED	Kamu tidak bisa execute  Spesifik action karena  group is a [forum](https://core.telegram.org/api/forum), disable forum functionality to continue.
+FRESH_CHANGE_ADMINS_FORBIDDEN	Kamu tidak bisa change administrator settings in chat ini karena Kamur session was logged-in recently
+FROM_MESSAGE_BOT_DISABLED	Bots tidak bisa use frompesan min constructors
+FROM_PEER_INVALID	 from peer value invalid
 GAME_BOT_INVALID	Kamu tidak bisa send that game with  current bot
-GENERAL_MODIFY_ICON_FORBIDDEN	Kamu can't modify  icon of  "General" topic.
+GENERAL_MODIFY_ICON_FORBIDDEN	Kamu tidak bisa modify  icon of  "General" topic.
 GEO_POINT_INVALID	Invalid geo point 
 GIFT_SLUG_EXPIRED	 gift slug kadaluarsa
-GIFT_SLUG_INVALID	 specified slug is invalid.
+GIFT_SLUG_INVALID	 Spesifik slug invalid.
 GIF_CONTENT_TYPE_INVALID	GIF content-type invalid
-GIF_ID_INVALID	  gif/animation id is invalid
+GIF_ID_INVALID	  gif/animation id invalid
 GRAPH_EXPIRED_RELOAD	This graph has expired, please obtain a new graph token
-GRAPH_INVALID_RELOAD	Invalid graph token , please reload  stats and provide  updated token
+GRAPH_INVALID_RELOAD	Invalid graph token , please reload  stats dan provide  updated token
 GRAPH_OUTDATED_RELOAD	 graph data is outdated
-GROUPCALL_ALREADY_DISCARDED	 group call was already discarded
+GROUPCALL_ALREADY_DISCARDED	 group call telah discarded
 GROUPCALL_FORBIDDEN	 group call has already ended.
-GROUPCALL_INVALID	 specified group call is invalid
-GROUPCALL_JOIN_MISSING	Kamu haven't joined this group call
+GROUPCALL_INVALID	 Spesifik group call invalid
+GROUPCALL_JOIN_MISSING	Kamu haven't bergabung this group call
 GROUPCALL_NOT_MODIFIED	Group call settings weren't modified
-GROUPCALL_SSRC_DUPLICATE_MUCH	Too many group call synchronization source duplicates
+GROUPCALL_SSRC_DUPLICATE_MUCH	terlalu banyak group call synchronization source duplicates
 GROUPED_MEDIA_INVALID	 album contains invalid media
-GROUP_CALL_INVALID	 group call is invalid
-HASH_INVALID	  hash is invalid
-HIDE_REQUESTER_MISSING	 join request was missing or was already handled
+GROUP_CALL_INVALID	 group call invalid
+HASH_INVALID	  hash invalid
+HIDE_REQUESTER_MISSING	 join request was missing or telah handled
 IMAGE_PROCESS_FAILED	 server failed to process Kamur image
-IMPORT_FILE_INVALID	 imported file is invalid
+IMPORT_FILE_INVALID	 imported file invalid
 IMPORT_FORMAT_UNRECOGNIZED	 imported format is unrecognized
-IMPORT_ID_INVALID	 import id is invalid
-IMPORT_TOKEN_INVALID	 specified token is invalid.
+IMPORT_ID_INVALID	 import id invalid
+IMPORT_TOKEN_INVALID	 Spesifik token invalid.
 INLINE_RESULT_EXPIRED	 inline bot query expired
-INPUT_CHATLIST_INVALID	 specified folder is invalid.
-INPUT_CONSTRUCTOR_INVALID	  constructor is invalid
+INPUT_CHATLIST_INVALID	 Spesifik folder invalid.
+INPUT_CONSTRUCTOR_INVALID	  constructor invalid
 INPUT_FETCH_ERROR	An error occurred while deserializing TL parameters
 INPUT_FETCH_FAIL	Failed deserializing TL payload
-INPUT_FILTER_INVALID	 filter is invalid for this query
-INPUT_LAYER_INVALID	  layer is invalid
-INPUT_METHOD_INVALID	 method invoked is invalid in  current schema
-INPUT_REQUEST_TOO_LONG	 input request is too long
-INPUT_TEXT_EMPTY	 specified text is empty
-INPUT_TEXT_TOO_LONG	 specified text is too long.
-INPUT_USER_DEACTIVATED	 target user has been deleted/deactivated
-INVITES_TOO_MUCH	 maximum number of per-folder invites specified by  `chatlist_invites_limit_default`/`chatlist_invites_limit_premium` [client configuration parameters &raquo;](/api/config#chatlist-invites-limit-default) was reached.
-INVITE_FORBIDDEN_WITH_JOINAS	If  user has anonymously joined a group call as a channel, y can't invite or users to  group call because that would cause deanonymization, because  invite would be sent using  original user ID, not  anonymized channel ID
-INVITE_HASH_EMPTY	 invite hash is empty
-INVITE_HASH_EXPIRED	 chat invite link is no longer valid
-INVITE_HASH_INVALID	 invite link hash is invalid
-INVITE_REQUEST_SENT	 request to join this chat or channel has been successfully sent
-INVITE_REVOKED_MISSING	 action required a chat invite link to be revoked first
-INVITE_SLUG_EMPTY	 invite slug is empty
+INPUT_FILTER_INVALID	 filter invalid for this query
+INPUT_LAYER_INVALID	  layer invalid
+INPUT_METHOD_INVALID	 method invoked invalid in  current schema
+INPUT_REQUEST_TOO_LONG	 input request terlalu panjang
+INPUT_TEXT_EMPTY	 Spesifik text kosong
+INPUT_TEXT_TOO_LONG	 Spesifik text terlalu panjang.
+INPUT_USER_DEACTIVATED	 target user telah deleted/deactivated
+INVITES_TOO_MUCH	 Nomor maximum dari per-folder undangan Spesifik oleh  `chatlist_invites_limit_default`/`chatlist_invites_limit_premium` [client configuration parameters &raquo;](/api/config#chatlist-invites-limit-default) telah tercapai.
+INVITE_FORBIDDEN_WITH_JOINAS	Jika pengguna telah menyamar bergabung panggilan group sebagai channel, y tidak bisa invite or users to  group call karena that would cause deanonymization, karena  invite would dikirim using  original user ID, not  anonymized channel ID
+INVITE_HASH_EMPTY	 Undangan hash kosong
+INVITE_HASH_EXPIRED	 undangan chat link tidak valid
+INVITE_HASH_INVALID	 Undangan link hash invalid
+INVITE_REQUEST_SENT	 request untuk bergabung chat ini or channel telah successfully sent
+INVITE_REVOKED_MISSING	 aksi memerlukan undangan chat link untuk direvoked first
+INVITE_SLUG_EMPTY	 invite slug kosong
 INVITE_SLUG_EXPIRED	 invite slug kadaluarsa
-INVOICE_PAYLOAD_INVALID	 specified invoice payload is invalid
-JOIN_AS_PEER_INVALID	 specified peer tidak bisa be used to join a group call
-LANG_CODE_INVALID	 specified language code is invalid
-LANG_CODE_NOT_SUPPORTED	 specified language code is not supported
-LANG_PACK_INVALID	  language pack is invalid
-LASTNAME_INVALID	 last name is invalid
-LIMIT_INVALID	 limit parameter is invalid
-LINK_NOT_MODIFIED	 chat link tidak dimodifikasi because Kamu tried to link to  same target
-LOCATION_INVALID	 file location is invalid
-MAX_DATE_INVALID	 specified maximum date is invalid
-MAX_ID_INVALID	 max_id parameter is invalid
-MAX_QTS_INVALID	  QTS is invalid
+INVOICE_PAYLOAD_INVALID	 Spesifik invoice payload invalid
+JOIN_AS_PEER_INVALID	 Spesifik peer tidak bisa digunakan untuk bergabung panggilan group
+LANG_CODE_INVALID	 Spesifik language code invalid
+LANG_CODE_NOT_SUPPORTED	 Spesifik language code tidak support
+LANG_PACK_INVALID	  language pack invalid
+LASTNAME_INVALID	 last name invalid
+LIMIT_INVALID	 limit parameter invalid
+LINK_NOT_MODIFIED	 chat link tidak dimodifikasi karena Kamu mencoba to link to  same target
+LOCATION_INVALID	 file location invalid
+MAX_DATE_INVALID	 Spesifik maximum date invalid
+MAX_ID_INVALID	 max_id parameter invalid
+MAX_QTS_INVALID	  QTS invalid
 MD5_CHECKSUM_INVALID	 file's checksum did not match  md5_checksum parameter
-MEDIA_CAPTION_TOO_LONG	 media caption is too long
-MEDIA_EMPTY	 media Kamu tried to send is invalid
-MEDIA_FILE_INVALID	  media file is invalid
-MEDIA_GROUPED_INVALID	Kamu tried to send media of different types in an album
-MEDIA_INVALID	 media is invalid
-MEDIA_NEW_INVALID	 new media to edit  message with is invalid
-MEDIA_PREV_INVALID	 previous media tidak bisa be edited with anything else
-MEDIA_TTL_INVALID	 media ttl is invalid
-MEDIA_TYPE_INVALID	 specified media type tidak bisa be used in stories.
+MEDIA_CAPTION_TOO_LONG	 media caption terlalu panjang
+MEDIA_EMPTY	 media Kamu mencoba mengirim invalid
+MEDIA_FILE_INVALID	  media file invalid
+MEDIA_GROUPED_INVALID	Kamu mencoba mengirim media of different types in an album
+MEDIA_INVALID	 media invalid
+MEDIA_NEW_INVALID	 new media to edit  pesan with invalid
+MEDIA_PREV_INVALID	 previous media tidak bisa be edited dengannything else
+MEDIA_TTL_INVALID	 media ttl invalid
+MEDIA_TYPE_INVALID	 Spesifik media type tidak bisa digunakan in stories.
 MEDIA_VIDEO_STORY_MISSING	 media does not have a photo or a video
-MEGAGROUP_GEO_REQUIRED	This method can only be invoked on a geogroup.
-MEGAGROUP_ID_INVALID	 supergroup is invalid
-MEGAGROUP_PREHISTORY_HIDDEN	 action failed because  supergroup has  pre-history hidden
-MEGAGROUP_REQUIRED	 request can only be used with a supergroup
-MESSAGE_EDIT_TIME_EXPIRED	Kamu can no longer edit this message because too much time has passed
-MESSAGE_EMPTY	 message sent is empty or contains invalid characters
-MESSAGE_IDS_EMPTY	 requested message doesn't exist or Kamu  no message id
-MESSAGE_ID_INVALID	 message id is invalid
-MESSAGE_NOT_MODIFIED	 message tidak dimodifikasi because Kamu tried to edit it using  same content
-MESSAGE_POLL_CLOSED	Kamu can't interact with a closed poll
-MESSAGE_TOO_LONG	 message text is too long
-METHOD_INVALID	 API method is invalid and tidak bisa be used
-MIN_DATE_INVALID	 specified minimum date is invalid
-MSG_ID_INVALID	 message ID used in  peer was invalid
-MSG_TOO_OLD	chat_read_mark_expire_period have passed since  message was sent, read receipts were deleted
-MSG_VOICE_MISSING	 message does not contain a voice message
+MEGAGROUP_GEO_REQUIRED	Method ini hanya bisa invoked on a geogroup.
+MEGAGROUP_ID_INVALID	 supergroup invalid
+MEGAGROUP_PREHISTORY_HIDDEN	 aksi gagal karena  supergroup has  pre-history hidden
+MEGAGROUP_REQUIRED	 request hanya bisa used dengan supergroup
+MESSAGE_EDIT_TIME_EXPIRED	Kamu can tidak edit this pesan karena too much time has passed
+MESSAGE_EMPTY	 pesan yang dikirim kosong atau invalid characters
+MESSAGE_IDS_EMPTY	 requested pesan tidak exist or Kamu  no pesan id
+MESSAGE_ID_INVALID	 pesan id invalid
+MESSAGE_NOT_MODIFIED	 pesan tidak dimodifikasi karena Kamu mencoba to edit it using  konten yang sama
+MESSAGE_POLL_CLOSED	Kamu tidak bisa interact dengan closed poll
+MESSAGE_TOO_LONG	 pesan text terlalu panjang
+METHOD_INVALID	 API method invalid dan tidak bisa digunakan
+MIN_DATE_INVALID	 Spesifik minimum date invalid
+MSG_ID_INVALID	 pesan ID used in  peer was invalid
+MSG_TOO_OLD	chat_read_mark_expire_period have passed since  pesan was sent, read receipts were deleted
+MSG_VOICE_MISSING	 pesan does not contain a voice message
 MSG_WAIT_FAILED	A waiting call returned an error
-MULTI_MEDIA_TOO_LONG	 album/media group contains too many items
-NEW_SALT_INVALID	 new salt is invalid
-NEW_SETTINGS_EMPTY	No password is set on  current account, and no new password was specified in `new_settings`
+MULTI_MEDIA_TOO_LONG	 album/media group contains terlalu banyak items
+NEW_SALT_INVALID	 new salt invalid
+NEW_SETTINGS_EMPTY	No password is set on  current account, dan no new password was Spesifik in `new_settings`
 NEW_SETTINGS_INVALID	 new settings are invalid
-NEXT_OFFSET_INVALID	 next offset value is invalid
+NEXT_OFFSET_INVALID	 next offset value invalid
 NOGENERAL_HIDE_FORBIDDEN	 hidden parameter is only valid for  General topic message_thread_id=1
-OFFSET_INVALID	 offset parameter is invalid
-OFFSET_PEER_ID_INVALID	  offset peer is invalid
-OPTIONS_TOO_MUCH	 poll options are too many
-OPTION_INVALID	 option specified is invalid and does not exist in  target poll
-ORDER_INVALID	 specified username order is invalid.
-PACK_SHORT_NAME_INVALID	Invalid sticker pack name. It must begin with a letter, can't contain consecutive underscores and must end in '_by_<bot username>'.
+OFFSET_INVALID	 offset parameter invalid
+OFFSET_PEER_ID_INVALID	  offset peer invalid
+OPTIONS_TOO_MUCH	 poll options are terlalu banyak
+OPTION_INVALID	 option Spesifik invalid dan does not exist in  target poll
+ORDER_INVALID	 Spesifik username order invalid.
+PACK_SHORT_NAME_INVALID	Invalid sticker pack name. It must begin dengan letter, tidak bisa contain consecutive underscores dan must end in '_by_<bot username>'.
 PACK_SHORT_NAME_OCCUPIED	A sticker pack with this name already exists
-PACK_TITLE_INVALID	 sticker pack title is invalid
-PARTICIPANTS_TOO_FEW	 chat doesn't have enough participants
-PARTICIPANT_ID_INVALID	 specified participant ID is invalid
-PARTICIPANT_JOIN_MISSING	Trying to enable a presentation, when  user hasn't joined  Video Chat with phone.joinGroupCall
+PACK_TITLE_INVALID	 sticker pack title invalid
+PARTICIPANTS_TOO_FEW	 chat tidak mempunyai cukup participants
+PARTICIPANT_ID_INVALID	 Spesifik participant ID invalid
+PARTICIPANT_JOIN_MISSING	mencoba untuk mengaktifkan a presentation, when  user hasn't bergabung  Video Chat with phone.joinGroupCall
 PARTICIPANT_VERSION_OUTDATED	 or participant is using an outdated Telegram app version
-PASSWORD_EMPTY	 password  is empty
-PASSWORD_HASH_INVALID	 two-step verification password is invalid
-PASSWORD_MISSING	 account is missing  two-step verification password
+PASSWORD_EMPTY	 password  kosong
+PASSWORD_HASH_INVALID	 two-step verification password invalid
+PASSWORD_MISSING	 account tidak ada  two-step verification password
 PASSWORD_RECOVERY_EXPIRED	 recovery code has expired.
-PASSWORD_RECOVERY_NA	 password recovery e-mail is not available
-PASSWORD_REQUIRED	 two-step verification password is required for this method
-PASSWORD_TOO_FRESH_X	 two-step verification password was added recently and Kamu are required to wait {value} seconds
+PASSWORD_RECOVERY_NA	 password recovery e-mail is bukanvailable
+PASSWORD_REQUIRED	 two-step verification password is required for Method ini
+PASSWORD_TOO_FRESH_X	 two-step verification password was added recently dan Kamu are required to wait {value} seconds
 PAYMENT_PROVIDER_INVALID	 payment provider was not recognised or its token was invalid
-PEERS_LIST_EMPTY	 specified list of peers is empty.
-PEER_FLOOD	 method can't be used because Kamur account is currently limited
+PEERS_LIST_EMPTY	 Spesifik list of peers kosong.
+PEER_FLOOD	 method tidak bisa digunakan karena akun kamu sedang limit
 PEER_HISTORY_EMPTY	Peer history empty
-PEER_ID_INVALID	 peer id being used is invalid or not known yet. Make sure Kamu meet  peer before interacting with it
-PEER_ID_NOT_SUPPORTED	  peer id is not supported
-PERSISTENT_TIMESTAMP_EMPTY	 pts argument is empty
-PERSISTENT_TIMESTAMP_INVALID	 persistent timestamp is invalid
-PHONE_CODE_EMPTY	 phone code is missing
+PEER_ID_INVALID	 peer id yang digunakan invalid atau tidak diketahui. Pastikan Kamu meet  peer sebelum berinteraksi dengannya
+PEER_ID_NOT_SUPPORTED	  peer id tidak support
+PERSISTENT_TIMESTAMP_EMPTY	 pts argument kosong
+PERSISTENT_TIMESTAMP_INVALID	 persistent timestamp invalid
+PHONE_CODE_EMPTY	 phone code tidak ada
 PHONE_CODE_EXPIRED	 confirmation code has expired
-PHONE_CODE_HASH_EMPTY	 phone code hash is missing
-PHONE_CODE_INVALID	 confirmation code is invalid
+PHONE_CODE_HASH_EMPTY	 phone code hash tidak ada
+PHONE_CODE_INVALID	 confirmation code invalid
 PHONE_HASH_EXPIRED	An invalid or expired phone_code_hash was 
-PHONE_NOT_OCCUPIED	No user is associated to  specified phone number
-PHONE_NUMBER_APP_SIGNUP_FORBIDDEN	Kamu can't sign up using this app
-PHONE_NUMBER_BANNED	 phone number is banned from Telegram and tidak bisa be used
-PHONE_NUMBER_FLOOD	This number has tried to login too many times
-PHONE_NUMBER_INVALID	 phone number is invalid
-PHONE_NUMBER_OCCUPIED	 phone number is already in use
-PHONE_NUMBER_UNOCCUPIED	 phone number is not yet being used
-PHONE_PASSWORD_PROTECTED	 phone is password protected
-PHOTO_CONTENT_TYPE_INVALID	 photo content type is invalid
-PHOTO_CONTENT_URL_EMPTY	 photo content URL is empty
-PHOTO_CROP_FILE_MISSING	Photo crop file missing
-PHOTO_CROP_SIZE_SMALL	 photo is too small
-PHOTO_EXT_INVALID	 photo extension is invalid
-PHOTO_FILE_MISSING	Profile photo file missing
-PHOTO_ID_INVALID	 photo id is invalid
-PHOTO_INVALID	 photo is invalid
+PHONE_NOT_OCCUPIED	Tidak ada Pengguna yang terasoiasi untum  Spesifik Nomor handphone
+PHONE_NUMBER_APP_SIGNUP_FORBIDDEN	Kamu tidak bisa sign up menggunakan app ini
+PHONE_NUMBER_BANNED	 Nomor handphone terbanned oleh Telegram dan tidak bisa digunakan
+PHONE_NUMBER_FLOOD	Nomor ini mencoba login terlalu banyak
+PHONE_NUMBER_INVALID	 Nomor handphone invalid
+PHONE_NUMBER_OCCUPIED	 Nomor handphone is sudah use
+PHONE_NUMBER_UNOCCUPIED	 Nomor handphone belum gunakan
+PHONE_PASSWORD_PROTECTED	 Phone password terlindungi
+PHOTO_CONTENT_TYPE_INVALID	 Tipe konten photo invalid
+PHOTO_CONTENT_URL_EMPTY	 Konten photo URL kosong
+PHOTO_CROP_FILE_MISSING	Photo crop file hilang
+PHOTO_CROP_SIZE_SMALL	 photo terlalu kecil
+PHOTO_EXT_INVALID	 Extensi photo invalid
+PHOTO_FILE_MISSING	File profile photo hilang
+PHOTO_ID_INVALID	 photo id invalid
+PHOTO_INVALID	 photo invalid
 PHOTO_INVALID_DIMENSIONS	 photo dimensions are invalid
-PHOTO_SAVE_FILE_INVALID	 photo Kamu tried to send tidak bisa be saved by Telegram
-PHOTO_THUMB_URL_EMPTY	 photo thumb URL is empty
-PHOTO_THUMB_URL_INVALID	 photo thumb URL is invalid
-PINNED_DIALOGS_TOO_MUCH	Too many pinned dialogs
-PIN_RESTRICTED	Kamu can't pin pesan in private chats with or people
-PLATFORM_INVALID	  platform is invalid. Allowed values are "android", "ios", "wp", "bb", "desktop", "web", "ubp", "or".
+PHOTO_SAVE_FILE_INVALID	 photo Kamu mencoba mengirim tidak bisa be saved by Telegram
+PHOTO_THUMB_URL_EMPTY	 photo thumb URL kosong
+PHOTO_THUMB_URL_INVALID	 photo thumb URL invalid
+PINNED_DIALOGS_TOO_MUCH	terlalu banyak pinned dialogs
+PIN_RESTRICTED	Kamu tidak bisa pin pesan in private chats with or people
+PLATFORM_INVALID	  platform invalid. Allowed values are "android", "ios", "wp", "bb", "desktop", "web", "ubp", "or".
 POLL_ANSWERS_INVALID	 poll answers are invalid
-POLL_ANSWER_INVALID	One of  poll answers is not acceptable
+POLL_ANSWER_INVALID	One of  poll answers is bukancceptable
 POLL_OPTION_DUPLICATE	A duplicate option was sent in  same poll
 POLL_OPTION_INVALID	A poll option used invalid data ( data may be too long)
-POLL_QUESTION_INVALID	 poll question is invalid
+POLL_QUESTION_INVALID	 poll question invalid
 POLL_UNSUPPORTED	This layer does not support polls in  invoked method
-POLL_VOTE_REQUIRED	Cast a vote in  poll before calling this method
-PREMIUM_ACCOUNT_REQUIRED	 method requires a premium user account
-PREMIUM_GIFTCODE_WAS_REFUNDED	This gift code can't be redeemed because  giveaway organizer requested a refund
-PRIVACY_KEY_INVALID	 privacy key is invalid
+POLL_VOTE_REQUIRED	Cast a vote in  poll before calling Method ini
+PREMIUM_ACCOUNT_REQUIRED	 Memerlukan premium user account
+PREMIUM_GIFTCODE_WAS_REFUNDED	This gift code tidak bisa be redeemed karena  giveaway organizer requested a refund
+PRIVACY_KEY_INVALID	 privacy key invalid
 PRIVACY_TOO_LONG	Kamur privacy exception list has exceeded  maximum capacity
-PRIVACY_VALUE_INVALID	 privacy value is invalid
+PRIVACY_VALUE_INVALID	 privacy value invalid
 PUBLIC_BROADCAST_EXPECTED	A public channel was expected, but something else was 
 PUBLIC_KEY_REQUIRED	A public key is required
-QUERY_ID_EMPTY	 query ID is empty
-QUERY_ID_INVALID	 callback query id is invalid
+QUERY_ID_EMPTY	 query ID kosong
+QUERY_ID_INVALID	 callback query id invalid
 QUERY_TOO_SHORT	 query is too short
 QUIZ_ANSWER_MISSING	Kamu can forward a quiz while hiding  original author only after choosing an option in  quiz
 QUIZ_CORRECT_ANSWERS_EMPTY	 correct answers of  quiz are empty
-QUIZ_CORRECT_ANSWERS_TOO_MUCH	 quiz contains too many correct answers
+QUIZ_CORRECT_ANSWERS_TOO_MUCH	 quiz contains terlalu banyak correct answers
 QUIZ_CORRECT_ANSWER_INVALID	 correct answers of  quiz are invalid
-QUIZ_MULTIPLE_INVALID	A quiz can't have multiple answers
-QUOTE_TEXT_INVALID	 quote text is invalid
-RANDOM_ID_EMPTY	 random ID is empty
-RANDOM_ID_INVALID	  random ID is invalid
-RANDOM_LENGTH_INVALID	 random length is invalid
+QUIZ_MULTIPLE_INVALID	A quiz tidak bisa have multiple answers
+QUOTE_TEXT_INVALID	 quote text invalid
+RANDOM_ID_EMPTY	 random ID kosong
+RANDOM_ID_INVALID	  random ID invalid
+RANDOM_LENGTH_INVALID	 random length invalid
 RANGES_INVALID	Invalid range 
 REACTIONS_TOO_MANY	Non-premium users, can set up only one reaction per message
-REACTION_EMPTY	 reaction  is empty
-REACTION_INVALID	Invalid reaction  (only valid emoji are allowed)
-REFLECTOR_NOT_AVAILABLE	 call reflector is not available
-REPLY_MARKUP_BUY_EMPTY	Reply markup for buy button empty
-REPLY_MARKUP_GAME_EMPTY	  reply markup for  game is empty
-REPLY_MARKUP_INVALID	  reply markup is invalid
-REPLY_MARKUP_TOO_LONG	 reply markup is too long
-REPLY_MESSAGE_ID_INVALID	 reply message id is invalid
-REPLY_TO_INVALID	 specified `reply_to` field is invalid.
-REPLY_TO_USER_INVALID	 replied-to user is invalid.
+REACTION_EMPTY	 reaction  kosong
+REACTION_INVALID	Invalid reaction  (hanya emoji yang valid yg di perbolehkan)
+REFLECTOR_NOT_AVAILABLE	 call reflector tidak tersedia
+REPLY_MARKUP_BUY_EMPTY	Reply markup untuk buy button kosong
+REPLY_MARKUP_GAME_EMPTY	  reply markup untuk  game kosong
+REPLY_MARKUP_INVALID	  reply markup invalid
+REPLY_MARKUP_TOO_LONG	 reply markup terlalu panjang
+REPLY_MESSAGE_ID_INVALID	 reply pesan id invalid
+REPLY_TO_INVALID	 Spesifik `reply_to` field invalid.
+REPLY_TO_USER_INVALID	 replied-to Pengguna invalid.
 RESET_REQUEST_MISSING	No password reset is in progress
-RESULTS_TOO_MUCH	 result contains too many items
+RESULTS_TOO_MUCH	 result contains terlalu banyak items
 RESULT_ID_DUPLICATE	 result contains items with duplicated identifiers
 RESULT_ID_EMPTY	Result ID empty
-RESULT_ID_INVALID	 given result tidak bisa be used to send  selection to  bot
-RESULT_TYPE_INVALID	 result type is invalid
+RESULT_ID_INVALID	 given result tidak bisa digunakan mengirim  selection to  bot
+RESULT_TYPE_INVALID	 result tipe invalid
 REVOTE_NOT_ALLOWED	Kamu tidak bisa change Kamur vote
 RIGHTS_NOT_MODIFIED	 new admin rights are equal to  old rights, no change was made
 RSA_DECRYPT_FAILED	Internal RSA decryption failed
-SAVED_DIALOGS_UNSUPPORTED	Kamu tidak bisa use this method
-SCHEDULE_BOT_NOT_ALLOWED	Bots are not allowed to schedule pesan
+SAVED_DIALOGS_UNSUPPORTED	Kamu tidak bisa use Method ini
+SCHEDULE_BOT_NOT_ALLOWED	Bots are Tidak diperbolehkan untuk menjadwalkan pesan
 SCHEDULE_DATE_INVALID	Invalid schedule date 
-SCHEDULE_DATE_TOO_LATE	 date Kamu tried to schedule is too far in  future (more than one year)
-SCHEDULE_STATUS_PRIVATE	Kamu tidak bisa schedule a message until  person comes online if ir privacy does not show this information
-SCHEDULE_TOO_MUCH	Kamu tried to schedule too many pesan in this chat
-SCORE_INVALID	 specified game score is invalid
-SEARCH_QUERY_EMPTY	 search query is empty
-SEARCH_WITH_LINK_NOT_SUPPORTED	Kamu tidak bisa provide a search query and an invite link at  same time
-SECONDS_INVALID	 seconds interval is invalid
-SEND_AS_PEER_INVALID	Kamu can't send pesan as  specified peer
-SEND_MESSAGE_MEDIA_INVALID	 message media is invalid
-SEND_MESSAGE_TYPE_INVALID	 message type is invalid
-SESSION_TOO_FRESH_X	Kamu can't do this action because  current session was logged-in recently
+SCHEDULE_DATE_TOO_LATE	 Kamu mencoba untuk menjadwalkan terlalu jauh dari  masa depan (lebih dari 1 tahun)
+SCHEDULE_STATUS_PRIVATE	Kamu tidak bisa menjadwalkan pesan until  person comes online if ir privacy does not show this information
+SCHEDULE_TOO_MUCH	Kamu mencoba untuk menjadwalkan terlalu banyak pesan in chat ini
+SCORE_INVALID	 Spesifik game score invalid
+SEARCH_QUERY_EMPTY	 search query kosong
+SEARCH_WITH_LINK_NOT_SUPPORTED	Kamu tidak bisa provide a search query dan invite link at  same time
+SECONDS_INVALID	 seconds interval invalid
+SEND_AS_PEER_INVALID	Kamu tidak bisa send pesan as  Spesifik peer
+SEND_MESSAGE_MEDIA_INVALID	 pesan media invalid
+SEND_MESSAGE_TYPE_INVALID	 pesan tipe invalid
+SESSION_TOO_FRESH_X	Kamu tidak bisa melakukan aksi ini karena  current session was logged-in recently
 SETTINGS_INVALID	Invalid settings were 
-SHA256_HASH_INVALID	  SHA256 hash is invalid
-SHORTNAME_OCCUPY_FAILED	An error occurred when trying to register  short-name used for  sticker pack. Try a different name
-SHORT_NAME_INVALID	 specified short name is invalid
-SHORT_NAME_OCCUPIED	 specified short name is already in use
-SLOTS_EMPTY	 specified slot list is empty.
+SHA256_HASH_INVALID	  SHA256 hash invalid
+SHORTNAME_OCCUPY_FAILED	An error occurred when mencoba untuk mendaftar nama-pendek digunakan untuk  sticker pack. Coba nama yang lain
+SHORT_NAME_INVALID	 Spesifik short name invalid
+SHORT_NAME_OCCUPIED	 Spesifik short name is sudah use
+SLOTS_EMPTY	 Spesifik slot list kosong.
 SLOWMODE_MULTI_MSGS_DISABLED	Slowmode aktif, Kamu tidak bisa forward multiple pesan to this group
-SLUG_INVALID	 specified invoice slug is invalid.
+SLUG_INVALID	 Spesifik invoice slug invalid.
 SMS_CODE_CREATE_FAILED	An error occurred while creating  SMS code
 SRP_ID_INVALID	Invalid SRP ID 
 SRP_PASSWORD_CHANGED	 password has changed
-START_PARAM_EMPTY	 start parameter is empty
-START_PARAM_INVALID	 start parameter is invalid
-START_PARAM_TOO_LONG	 start parameter is too long
-STICKERPACK_STICKERS_TOO_MUCH	re are too many stickers in this stickerpack, Kamu can't add any more
-STICKERSET_INVALID	 requested sticker set is invalid
+START_PARAM_EMPTY	 start parameter kosong
+START_PARAM_INVALID	 start parameter invalid
+START_PARAM_TOO_LONG	 start parameter terlalu panjang
+STICKERPACK_STICKERS_TOO_MUCH	re are terlalu banyak stickers in this stickerpack, Kamu tidak bisa add any more
+STICKERSET_INVALID	 requested sticker set invalid
 STICKERSET_NOT_MODIFIED	 sticker set is not modified
-STICKERS_EMPTY	 sticker  is empty
-STICKERS_TOO_MUCH	Too many stickers in  set
-STICKER_DOCUMENT_INVALID	 sticker document is invalid
-STICKER_EMOJI_INVALID	 sticker emoji is invalid
-STICKER_FILE_INVALID	 sticker file is invalid
-STICKER_GIF_DIMENSIONS	 specified video sticker has invalid dimensions
-STICKER_ID_INVALID	  sticker id is invalid
-STICKER_INVALID	  sticker is invalid
-STICKER_MIME_INVALID	Make sure to pass a valid image file for  right InputFile parameter
+STICKERS_EMPTY	 sticker  kosong
+STICKERS_TOO_MUCH	terlalu banyak stickers in  set
+STICKER_DOCUMENT_INVALID	 sticker document invalid
+STICKER_EMOJI_INVALID	 sticker emoji invalid
+STICKER_FILE_INVALID	 sticker file invalid
+STICKER_GIF_DIMENSIONS	 Spesifik video sticker has invalid dimensions
+STICKER_ID_INVALID	  sticker id invalid
+STICKER_INVALID	  sticker invalid
+STICKER_MIME_INVALID	Pastikan to pass a valid image file for  right InputFile parameter
 STICKER_PNG_DIMENSIONS	 sticker png dimensions are invalid
-STICKER_PNG_NOPNG	Stickers must be png files but   image was not a png
+STICKER_PNG_NOPNG	Stickers must be png files but   image was bukan png
 STICKER_TGS_NODOC	Kamu must send  animated sticker as a document
 STICKER_TGS_NOTGS	A tgs sticker file was expected, but something else was 
 STICKER_THUMB_PNG_NOPNG	A png sticker thumbnail file was expected, but something else was 
 STICKER_THUMB_TGS_NOTGS	Incorrect stickerset TGS thumb file .
-STICKER_VIDEO_BIG	 specified video sticker is too big
+STICKER_VIDEO_BIG	 Spesifik video sticker is too big
 STICKER_VIDEO_NODOC	Kamu must send  video sticker as a document
 STICKER_VIDEO_NOWEBM	A webm video file was expected, but something else was 
 STORAGE_KEY_REQUIRED	A cloud storage key is required.
 STORIES_NEVER_CREATED	Kamu have never created any stories
-STORIES_TOO_MUCH	Too many stories in  current account
-STORY_ID_EMPTY	Kamu specified no story IDs.
-STORY_ID_INVALID	 specified story ID is invalid.
+STORIES_TOO_MUCH	terlalu banyak stories in  current account
+STORY_ID_EMPTY	Kamu Spesifik no story IDs.
+STORY_ID_INVALID	 Spesifik story ID invalid.
 STORY_NOT_MODIFIED	 new story information Kamu passed is equal to  previous story information, thus it wasn't modified.
-STORY_PERIOD_INVALID	 story period is invalid
-STORY_SEND_FLOOD_MONTHLY_X	Kamu've hit  monthly story limit as specified by  [`stories_sent_monthly_limit_*` client configuration parameters](https://core.telegram.org/api/config#stories-sent-monthly-limit-default): wait for  specified number of seconds before posting a new story.
-STORY_SEND_FLOOD_WEEKLY_X	Kamu've hit  weekly story limit as specified by  [`stories_sent_weekly_limit_*` client configuration parameters](https://core.telegram.org/api/config#stories-sent-weekly-limit-default): wait for  specified number of seconds before posting a new story.
+STORY_PERIOD_INVALID	 story period invalid
+STORY_SEND_FLOOD_MONTHLY_X	Kamu've hit  monthly story limit as Spesifik by  [`stories_sent_monthly_limit_*` client configuration parameters](https://core.telegram.org/api/config#stories-sent-monthly-limit-default): wait for  Spesifik number of seconds before posting a new story.
+STORY_SEND_FLOOD_WEEKLY_X	Kamu've hit  weekly story limit as Spesifik by  [`stories_sent_weekly_limit_*` client configuration parameters](https://core.telegram.org/api/config#stories-sent-weekly-limit-default): wait for  Spesifik number of seconds before posting a new story.
 SWITCH_PM_TEXT_EMPTY	 switch_pm.text field was empty
-TAKEOUT_INVALID	 takeout id is invalid
+TAKEOUT_INVALID	 takeout id invalid
 TAKEOUT_REQUIRED	 method must be invoked inside a takeout session
-TASK_ALREADY_EXISTS	An email reset was already requested.
+TASK_ALREADY_EXISTS	An email reset telah requested.
 TEMP_AUTH_KEY_ALREADY_BOUND	 passed temporary key is already bound to anor perm_auth_key_id
-TEMP_AUTH_KEY_EMPTY	 temporary auth key  is empty
+TEMP_AUTH_KEY_EMPTY	 temporary auth key  kosong
 ME_FILE_INVALID	Invalid me file 
 ME_FORMAT_INVALID	Invalid me format 
 ME_INVALID	Invalid me 
-ME_MIME_INVALID	Kamu tidak bisa create this me because  mime-type is invalid
-ME_TITLE_INVALID	 specified me title is invalid
-TITLE_INVALID	 specified stickerpack title is invalid
+ME_MIME_INVALID	Kamu tidak bisa create this me karena  mime-tipe invalid
+ME_TITLE_INVALID	 Spesifik me title invalid
+TITLE_INVALID	 Spesifik stickerpack title invalid
 TMP_PASSWORD_DISABLED	 temporary password is disabled
-TMP_PASSWORD_INVALID	 temporary password is invalid
-TOKEN_EMPTY	 specified token is empty.
-TOKEN_INVALID	  token is invalid
-TOKEN_SECRET_INVALID	 specified token secret is invalid
-TOKEN_TYPE_INVALID	 specified token type is invalid.
-TOPICS_EMPTY	Kamu specified no topic IDs.
+TMP_PASSWORD_INVALID	 temporary password invalid
+TOKEN_EMPTY	 Spesifik token kosong.
+TOKEN_INVALID	  token invalid
+TOKEN_SECRET_INVALID	 Spesifik token secret invalid
+TOKEN_TYPE_INVALID	 Spesifik token tipe invalid.
+TOPICS_EMPTY	Kamu Spesifik no topic IDs.
 TOPIC_CLOSED	 topic was closed
-TOPIC_CLOSE_SEPARATELY	 `close` flag tidak bisa be  toger with any of  or flags.
+TOPIC_CLOSE_SEPARATELY	 `close` flag tidak bisa be  toger denganny of  or flags.
 TOPIC_DELETED	 topic was deleted
-TOPIC_HIDE_SEPARATELY	 `hide` flag tidak bisa be  toger with any of  or flags.
-TOPIC_ID_INVALID	  topic ID is invalid
+TOPIC_HIDE_SEPARATELY	 `hide` flag tidak bisa be  toger denganny of  or flags.
+TOPIC_ID_INVALID	  topic ID invalid
 TOPIC_NOT_MODIFIED	 topic tidak dimodifikasi
-TOPIC_TITLE_EMPTY	 specified topic title is empty.
-TO_LANG_INVALID	 specified destination language is invalid
-TRANSCRIPTION_FAILED	Telegram is having internal problems. Please try again later to transcribe  audio.
-TTL_DAYS_INVALID	  TTL days is invalid
+TOPIC_TITLE_EMPTY	 Spesifik topic title kosong.
+TO_LANG_INVALID	 Spesifik destination language invalid
+TRANSCRIPTION_FAILED	Telegram is having internal problems. Silahkan coba lagi later to transcribe  audio.
+TTL_DAYS_INVALID	  TTL days invalid
 TTL_MEDIA_INVALID	 media does not support self-destruction
-TTL_PERIOD_INVALID	  TTL period is invalid
-TYPES_EMPTY	 types parameter is empty
-TYPE_CONSTRUCTOR_INVALID	 type constructor is invalid
+TTL_PERIOD_INVALID	  TTL period invalid
+TYPES_EMPTY	 types parameter kosong
+TYPE_CONSTRUCTOR_INVALID	 type constructor invalid
 UNKNOWN_ERROR	Unknown error
-UNTIL_DATE_INVALID	That date parameter is invalid
-URL_INVALID	 URL  is invalid
-USAGE_LIMIT_INVALID	 usage limit is invalid
-USERNAMES_ACTIVE_TOO_MUCH	 maximum number of active usernames was reached.
-USERNAME_INVALID	 username is invalid
-USERNAME_NOT_MODIFIED	 username tidak dimodifikasi because Kamu tried to edit it using  same one
+UNTIL_DATE_INVALID	That date parameter invalid
+URL_INVALID	 URL  invalid
+USAGE_LIMIT_INVALID	 usage limit invalid
+USERNAMES_ACTIVE_TOO_MUCH	 Nomor maximum of active usernames telah tercapai.
+USERNAME_INVALID	 username invalid
+USERNAME_NOT_MODIFIED	 username tidak dimodifikasi karena Kamu mencoba to edit it using  same one
 USERNAME_NOT_OCCUPIED	 username is not occupied by anyone
-USERNAME_OCCUPIED	 username is already in use by someone else
+USERNAME_OCCUPIED	 username is sudah use by someone else
 USERNAME_PURCHASE_AVAILABLE	 username is available for purchase on fragment.com
 USERPIC_UPLOAD_REQUIRED	Kamu are required to upload a profile picture for this action
 USERS_TOO_FEW	Not enough users (to create a chat, for example)
-USERS_TOO_MUCH	 maximum number of users has been exceeded (to create a chat, for example)
-USER_ADMIN_INVALID	 action requires admin privileges. Probably Kamu tried to edit admin privileges on someone Kamu don't have rights to
-USER_ALREADY_INVITED	Kamu have already invited this user
-USER_ALREADY_PARTICIPANT	 user is already a participant of this chat
+USERS_TOO_MUCH	 Nomor maximum of users telah exceeded (to create a chat, for example)
+USER_ADMIN_INVALID	 action requires admin privileges. Probably Kamu mencoba to edit admin privileges on someone Kamu don't have rights to
+USER_ALREADY_INVITED	Kamu have sudahvited this user
+USER_ALREADY_PARTICIPANT	 Pengguna already a participant of chat ini
 USER_BANNED_IN_CHANNEL	Kamu are limited from sending pesan in supergroups/channels, check @SpamBot for details
-USER_BLOCKED	 user is blocked
-USER_BOT	Bots in channels can only be administrators, not members.
-USER_BOT_INVALID	This method can only be used by a bot
-USER_BOT_REQUIRED	 method can be used by bots only
-USER_CHANNELS_TOO_MUCH	 user is already in too many channels or supergroups
-USER_CREATOR	Kamu can't leave this channel because Kamu're its creator
-USER_ID_INVALID	 user id being used is invalid or not known yet. Make sure Kamu meet  user before interacting with it
-USER_INVALID	  user is invalid
+USER_BLOCKED	 Pengguna blocked
+USER_BOT	Bots di channels hanya bisa administrators, bukan anggota.
+USER_BOT_INVALID	Method ini hanya bisa digunakan oleh a bot
+USER_BOT_REQUIRED	 Method hanya digunakan oleh bots
+USER_CHANNELS_TOO_MUCH	 Pengguna sudah terlalu banyak channels atau supergroups
+USER_CREATOR	Kamu tidak bisa leave this channel karena Kamu're its creator
+USER_ID_INVALID	 user id yang digunakan invalid atau tidak di ketahui. Pastikan Kamu meet  user sebelum berinteraksi dengannya
+USER_INVALID	  Pengguna invalid
 USER_IS_BLOCKED	 user blocked Kamu
 USER_IS_BOT	A bot tidak bisa send pesan to or bots or to itself
-USER_KICKED	This user was kicked from this chat
-USER_NOT_MUTUAL_CONTACT	 user is not a mutual contact
-USER_NOT_PARTICIPANT	 user is not a member of this chat
-USER_PUBLIC_MISSING	 accounts username is missing
-USER_VOLUME_INVALID	 specified user volume is invalid
-VENUE_ID_INVALID	 specified venue ID is invalid.
-VIDEO_CONTENT_TYPE_INVALID	 video content type is invalid (i.e.: not streamable)
-VIDEO_FILE_INVALID	 video file is invalid
-VIDEO_TITLE_EMPTY	 specified video title is empty
+USER_KICKED	This user was kicked from chat ini
+USER_NOT_MUTUAL_CONTACT	 Pengguna bukan mutual contact
+USER_NOT_PARTICIPANT	 Pengguna bukan anggota of chat ini
+USER_PUBLIC_MISSING	 Username akun tidak ada
+USER_VOLUME_INVALID	 Spesifik user volume invalid
+VENUE_ID_INVALID	 Spesifik venue ID invalid.
+VIDEO_CONTENT_TYPE_INVALID	 video content tipe invalid (i.e.: not streamable)
+VIDEO_FILE_INVALID	 video file invalid
+VIDEO_TITLE_EMPTY	 Spesifik video title kosong
 VOICE_MESSAGES_FORBIDDEN	Pesan voice dibatasi
 VOLUME_LOC_NOT_FOUND	 Lokasi volume tidak bisa di temukan
-WALLPAPER_FILE_INVALID	  file tidak bisa be used as a wallpaper
+WALLPAPER_FILE_INVALID	  file tidak bisa digunakan as a wallpaper
 WALLPAPER_INVALID	 input wallpaper was not valid
-WALLPAPER_MIME_INVALID	 wallpaper mime type is invalid
-WALLPAPER_NOT_FOUND	 specified wallpaper could not be found.
+WALLPAPER_MIME_INVALID	 wallpaper mime tipe invalid
+WALLPAPER_NOT_FOUND	 Spesifik wallpaper could not be found.
 WC_CONVERT_URL_INVALID	WC convert URL invalid
-WEBDOCUMENT_INVALID	 web document is invalid
-WEBDOCUMENT_MIME_INVALID	 web document mime type is invalid
+WEBDOCUMENT_INVALID	 web document invalid
+WEBDOCUMENT_MIME_INVALID	 web document mime tipe invalid
 WEBDOCUMENT_SIZE_TOO_BIG	 web document is too big
-WEBDOCUMENT_URL_EMPTY	 web document URL is empty
-WEBDOCUMENT_URL_INVALID	 web document URL is invalid
+WEBDOCUMENT_URL_EMPTY	 web document URL kosong
+WEBDOCUMENT_URL_INVALID	 web document URL invalid
 WEBPAGE_CURL_FAILED	Telegram server could not fetch   URL
-WEBPAGE_MEDIA_EMPTY	 URL doesn't contain any valid media
-WEBPAGE_NOT_FOUND	Webpage not found
+WEBPAGE_MEDIA_EMPTY	 URL tidak contain any valid media
+WEBPAGE_NOT_FOUND	Webpage tidak ditemukan
 WEBPAGE_URL_INVALID	Webpage url invalid
-WEBPUSH_AUTH_INVALID	 specified web push auntication secret is invalid
-WEBPUSH_KEY_INVALID	 specified web push elliptic curve Diffie-Hellman public key is invalid
-WEBPUSH_TOKEN_INVALID	 specified web push token is invalid
-Kamu_BLOCKED_USER	Kamu blocked this user
+WEBPUSH_AUTH_INVALID	 Spesifik web push auntication secret invalid
+WEBPUSH_KEY_INVALID	 Spesifik web push elliptic curve Diffie-Hellman public key invalid
+WEBPUSH_TOKEN_INVALID	 Spesifik web push token invalid
+YOU_BLOCKED_USER	Kamu blocked user ini
