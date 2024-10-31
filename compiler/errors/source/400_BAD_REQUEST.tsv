@@ -488,44 +488,44 @@ USERS_TOO_FEW Tidak cukup pengguna (untuk membuat chat, misalnya)
 USERS_TOO_MUCH Jumlah maksimum pengguna telah terlampaui (untuk membuat chat, misalnya)
 USER_ADMIN_INVALID Tindakan ini memerlukan hak admin. Mungkin Anda mencoba mengedit hak admin pada seseorang yang tidak memiliki hak untuk itu
 USER_ALREADY_INVITED Anda sudah mengundang pengguna ini
-USER_ALREADY_PARTICIPANT	The user is already a participant of this chat
-USER_BANNED_IN_CHANNEL	You are limited from sending messages in supergroups/channels, check @SpamBot for details
-USER_BLOCKED	The user is blocked
-USER_BOT	Bots in channels can only be administrators, not members.
-USER_BOT_INVALID	This method can only be used by a bot
-USER_BOT_REQUIRED	The method can be used by bots only
-USER_CHANNELS_TOO_MUCH	The user is already in too many channels or supergroups
-USER_CREATOR	You can't leave this channel because you're its creator
-USER_ID_INVALID	The user id being used is invalid or not known yet. Make sure you meet the user before interacting with it
-USER_INVALID	The provided user is invalid
-USER_IS_BLOCKED	The user blocked you
-USER_IS_BOT	A bot cannot send messages to other bots or to itself
-USER_KICKED	This user was kicked from this chat
-USER_NOT_MUTUAL_CONTACT	The user is not a mutual contact
-USER_NOT_PARTICIPANT	The user is not a member of this chat
-USER_PUBLIC_MISSING	The accounts username is missing
-USER_VOLUME_INVALID	The specified user volume is invalid
-VENUE_ID_INVALID	The specified venue ID is invalid.
-VIDEO_CONTENT_TYPE_INVALID	The video content type is invalid (i.e.: not streamable)
-VIDEO_FILE_INVALID	The video file is invalid
-VIDEO_TITLE_EMPTY	The specified video title is empty
-VOICE_MESSAGES_FORBIDDEN	Voice messages are restricted
-VOLUME_LOC_NOT_FOUND	The volume location can't be found
-WALLPAPER_FILE_INVALID	The provided file cannot be used as a wallpaper
-WALLPAPER_INVALID	The input wallpaper was not valid
-WALLPAPER_MIME_INVALID	The wallpaper mime type is invalid
-WALLPAPER_NOT_FOUND	The specified wallpaper could not be found.
-WC_CONVERT_URL_INVALID	WC convert URL invalid
-WEBDOCUMENT_INVALID	The web document is invalid
-WEBDOCUMENT_MIME_INVALID	The web document mime type is invalid
-WEBDOCUMENT_SIZE_TOO_BIG	The web document is too big
-WEBDOCUMENT_URL_EMPTY	The web document URL is empty
-WEBDOCUMENT_URL_INVALID	The web document URL is invalid
-WEBPAGE_CURL_FAILED	Telegram server could not fetch the provided URL
-WEBPAGE_MEDIA_EMPTY	The URL doesn't contain any valid media
-WEBPAGE_NOT_FOUND	Webpage not found
-WEBPAGE_URL_INVALID	Webpage url invalid
-WEBPUSH_AUTH_INVALID	The specified web push authentication secret is invalid
-WEBPUSH_KEY_INVALID	The specified web push elliptic curve Diffie-Hellman public key is invalid
-WEBPUSH_TOKEN_INVALID	The specified web push token is invalid
-YOU_BLOCKED_USER	You blocked this user
+USER_ALREADY_PARTICIPANT Pengguna sudah menjadi peserta obrolan ini
+USER_BANNED_IN_CHANNEL Anda dibatasi untuk mengirim pesan di supergroup/saluran, periksa @SpamBot untuk detailnya
+USER_BLOCKED Pengguna diblokir
+USER_BOT Bot di saluran hanya bisa menjadi admin, bukan anggota.
+USER_BOT_INVALID Metode ini hanya dapat digunakan oleh bot
+USER_BOT_REQUIRED Metode ini hanya dapat digunakan oleh bot
+USER_CHANNELS_TOO_MUCH Pengguna sudah berada di terlalu banyak saluran atau supergroup
+USER_CREATOR Anda tidak dapat keluar dari saluran ini karena Anda adalah penciptanya
+USER_ID_INVALID ID pengguna yang digunakan tidak valid atau belum diketahui. Pastikan Anda sudah bertemu pengguna sebelum berinteraksi dengannya
+USER_INVALID Pengguna yang diberikan tidak valid
+USER_IS_BLOCKED Pengguna memblokir Anda
+USER_IS_BOT Bot tidak dapat mengirim pesan ke bot lain atau ke dirinya sendiri
+USER_KICKED Pengguna ini telah diusir dari obrolan ini
+USER_NOT_MUTUAL_CONTACT Pengguna bukan kontak mutual
+USER_NOT_PARTICIPANT Pengguna bukan anggota obrolan ini
+USER_PUBLIC_MISSING Nama pengguna akun hilang
+USER_VOLUME_INVALID Volume pengguna yang ditentukan tidak valid
+VENUE_ID_INVALID ID lokasi yang ditentukan tidak valid.
+VIDEO_CONTENT_TYPE_INVALID Tipe konten video tidak valid (misalnya: tidak dapat diputar)
+VIDEO_FILE_INVALID File video tidak valid
+VIDEO_TITLE_EMPTY Judul video yang ditentukan kosong
+VOICE_MESSAGES_FORBIDDEN Pesan suara dibatasi
+VOLUME_LOC_NOT_FOUND Lokasi volume tidak dapat ditemukan
+WALLPAPER_FILE_INVALID File yang diberikan tidak dapat digunakan sebagai wallpaper
+WALLPAPER_INVALID Wallpaper yang dimasukkan tidak valid
+WALLPAPER_MIME_INVALID Tipe mime wallpaper tidak valid
+WALLPAPER_NOT_FOUND Wallpaper yang ditentukan tidak dapat ditemukan.
+WC_CONVERT_URL_INVALID URL konversi WC tidak valid
+WEBDOCUMENT_INVALID Dokumen web tidak valid
+WEBDOCUMENT_MIME_INVALID Tipe mime dokumen web tidak valid
+WEBDOCUMENT_SIZE_TOO_BIG Ukuran dokumen web terlalu besar
+WEBDOCUMENT_URL_EMPTY URL dokumen web kosong
+WEBDOCUMENT_URL_INVALID URL dokumen web tidak valid
+WEBPAGE_CURL_FAILED Server Telegram tidak dapat mengambil URL yang diberikan
+WEBPAGE_MEDIA_EMPTY URL tidak berisi media yang valid
+WEBPAGE_NOT_FOUND Halaman web tidak ditemukan
+WEBPAGE_URL_INVALID URL halaman web tidak valid
+WEBPUSH_AUTH_INVALID Kunci autentikasi web push yang ditentukan tidak valid
+WEBPUSH_KEY_INVALID Kunci publik elliptic curve Diffie-Hellman untuk web push yang ditentukan tidak valid
+WEBPUSH_TOKEN_INVALID Token web push yang ditentukan tidak valid
+YOU_BLOCKED_USER Anda memblokir pengguna ini
