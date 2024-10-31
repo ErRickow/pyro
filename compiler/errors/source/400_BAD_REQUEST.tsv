@@ -438,56 +438,56 @@ STORY_ID_EMPTY Anda tidak menentukan ID cerita.
 STORY_ID_INVALID ID cerita yang ditentukan tidak valid.
 STORY_NOT_MODIFIED Informasi cerita baru yang Anda berikan sama dengan informasi cerita sebelumnya, sehingga tidak diubah.
 STORY_PERIOD_INVALID Periode cerita tidak valid
-STORY_SEND_FLOOD_MONTHLY_X	You've hit the monthly story limit as specified by the [`stories_sent_monthly_limit_*` client configuration parameters](https://core.telegram.org/api/config#stories-sent-monthly-limit-default): wait for the specified number of seconds before posting a new story.
-STORY_SEND_FLOOD_WEEKLY_X	You've hit the weekly story limit as specified by the [`stories_sent_weekly_limit_*` client configuration parameters](https://core.telegram.org/api/config#stories-sent-weekly-limit-default): wait for the specified number of seconds before posting a new story.
-SWITCH_PM_TEXT_EMPTY	The switch_pm.text field was empty
-TAKEOUT_INVALID	The takeout id is invalid
-TAKEOUT_REQUIRED	The method must be invoked inside a takeout session
-TASK_ALREADY_EXISTS	An email reset was already requested.
-TEMP_AUTH_KEY_ALREADY_BOUND	The passed temporary key is already bound to another perm_auth_key_id
-TEMP_AUTH_KEY_EMPTY	The temporary auth key provided is empty
-THEME_FILE_INVALID	Invalid theme file provided
-THEME_FORMAT_INVALID	Invalid theme format provided
-THEME_INVALID	Invalid theme provided
-THEME_MIME_INVALID	You cannot create this theme because the mime-type is invalid
-THEME_TITLE_INVALID	The specified theme title is invalid
-TITLE_INVALID	The specified stickerpack title is invalid
-TMP_PASSWORD_DISABLED	The temporary password is disabled
-TMP_PASSWORD_INVALID	The temporary password is invalid
-TOKEN_EMPTY	The specified token is empty.
-TOKEN_INVALID	The provided token is invalid
-TOKEN_SECRET_INVALID	The specified token secret is invalid
-TOKEN_TYPE_INVALID	The specified token type is invalid.
-TOPICS_EMPTY	You specified no topic IDs.
-TOPIC_CLOSED	The topic was closed
-TOPIC_CLOSE_SEPARATELY	The `close` flag cannot be provided together with any of the other flags.
-TOPIC_DELETED	The topic was deleted
-TOPIC_HIDE_SEPARATELY	The `hide` flag cannot be provided together with any of the other flags.
-TOPIC_ID_INVALID	The provided topic ID is invalid
-TOPIC_NOT_MODIFIED	The topic was not modified
-TOPIC_TITLE_EMPTY	The specified topic title is empty.
-TO_LANG_INVALID	The specified destination language is invalid
-TRANSCRIPTION_FAILED	Telegram is having internal problems. Please try again later to transcribe the audio.
-TTL_DAYS_INVALID	The provided TTL days is invalid
-TTL_MEDIA_INVALID	The media does not support self-destruction
-TTL_PERIOD_INVALID	The provided TTL period is invalid
-TYPES_EMPTY	The types parameter is empty
-TYPE_CONSTRUCTOR_INVALID	The type constructor is invalid
-UNKNOWN_ERROR	Unknown error
-UNTIL_DATE_INVALID	That date parameter is invalid
-URL_INVALID	The URL provided is invalid
-USAGE_LIMIT_INVALID	The usage limit is invalid
-USERNAMES_ACTIVE_TOO_MUCH	The maximum number of active usernames was reached.
-USERNAME_INVALID	The username is invalid
-USERNAME_NOT_MODIFIED	The username was not modified because you tried to edit it using the same one
-USERNAME_NOT_OCCUPIED	The username is not occupied by anyone
-USERNAME_OCCUPIED	The username is already in use by someone else
-USERNAME_PURCHASE_AVAILABLE	The username is available for purchase on fragment.com
-USERPIC_UPLOAD_REQUIRED	You are required to upload a profile picture for this action
-USERS_TOO_FEW	Not enough users (to create a chat, for example)
-USERS_TOO_MUCH	The maximum number of users has been exceeded (to create a chat, for example)
-USER_ADMIN_INVALID	The action requires admin privileges. Probably you tried to edit admin privileges on someone you don't have rights to
-USER_ALREADY_INVITED	You have already invited this user
+STORY_SEND_FLOOD_MONTHLY_X Anda telah mencapai batas bulanan cerita sesuai dengan parameter konfigurasi klien [`stories_sent_monthly_limit_*`](https://core.telegram.org/api/config#stories-sent-monthly-limit-default): tunggu selama jumlah detik yang ditentukan sebelum memposting cerita baru.
+STORY_SEND_FLOOD_WEEKLY_X Anda telah mencapai batas mingguan cerita sesuai dengan parameter konfigurasi klien [`stories_sent_weekly_limit_*`](https://core.telegram.org/api/config#stories-sent-weekly-limit-default): tunggu selama jumlah detik yang ditentukan sebelum memposting cerita baru.
+SWITCH_PM_TEXT_EMPTY Field switch_pm.text kosong
+TAKEOUT_INVALID ID takeout tidak valid
+TAKEOUT_REQUIRED Metode ini harus dipanggil di dalam sesi takeout
+TASK_ALREADY_EXISTS Permintaan reset email sudah diajukan.
+TEMP_AUTH_KEY_ALREADY_BOUND Kunci sementara yang diberikan sudah terikat dengan perm_auth_key_id lain
+TEMP_AUTH_KEY_EMPTY Kunci autentikasi sementara yang diberikan kosong
+THEME_FILE_INVALID File tema yang diberikan tidak valid
+THEME_FORMAT_INVALID Format tema yang diberikan tidak valid
+THEME_INVALID Tema yang diberikan tidak valid
+THEME_MIME_INVALID Anda tidak dapat membuat tema ini karena mime-type tidak valid
+THEME_TITLE_INVALID Judul tema yang ditentukan tidak valid
+TITLE_INVALID Judul paket stiker yang ditentukan tidak valid
+TMP_PASSWORD_DISABLED Kata sandi sementara dinonaktifkan
+TMP_PASSWORD_INVALID Kata sandi sementara tidak valid
+TOKEN_EMPTY Token yang ditentukan kosong.
+TOKEN_INVALID Token yang diberikan tidak valid
+TOKEN_SECRET_INVALID Kunci rahasia token yang ditentukan tidak valid
+TOKEN_TYPE_INVALID Tipe token yang ditentukan tidak valid.
+TOPICS_EMPTY Anda tidak menentukan ID topik.
+TOPIC_CLOSED Topik telah ditutup
+TOPIC_CLOSE_SEPARATELY Flag `close` tidak dapat diberikan bersama dengan flag lainnya.
+TOPIC_DELETED Topik telah dihapus
+TOPIC_HIDE_SEPARATELY Flag `hide` tidak dapat diberikan bersama dengan flag lainnya.
+TOPIC_ID_INVALID ID topik yang diberikan tidak valid
+TOPIC_NOT_MODIFIED Topik tidak diubah
+TOPIC_TITLE_EMPTY Judul topik yang ditentukan kosong.
+TO_LANG_INVALID Bahasa tujuan yang ditentukan tidak valid
+TRANSCRIPTION_FAILED Telegram mengalami masalah internal. Silakan coba lagi nanti untuk mentranskripsikan audio.
+TTL_DAYS_INVALID Jumlah hari TTL yang diberikan tidak valid
+TTL_MEDIA_INVALID Media tidak mendukung penghancuran diri
+TTL_PERIOD_INVALID Periode TTL yang diberikan tidak valid
+TYPES_EMPTY Parameter types kosong
+TYPE_CONSTRUCTOR_INVALID Konstruktor tipe tidak valid
+UNKNOWN_ERROR Kesalahan tidak diketahui
+UNTIL_DATE_INVALID Parameter tanggal tersebut tidak valid
+URL_INVALID URL yang diberikan tidak valid
+USAGE_LIMIT_INVALID Batas penggunaan tidak valid
+USERNAMES_ACTIVE_TOO_MUCH Jumlah maksimum nama pengguna aktif telah tercapai.
+USERNAME_INVALID Nama pengguna tidak valid
+USERNAME_NOT_MODIFIED Nama pengguna tidak diubah karena Anda mencoba mengeditnya menggunakan nama yang sama
+USERNAME_NOT_OCCUPIED Nama pengguna tidak digunakan oleh siapa pun
+USERNAME_OCCUPIED Nama pengguna sudah digunakan oleh orang lain
+USERNAME_PURCHASE_AVAILABLE Nama pengguna tersedia untuk dibeli di fragment.com
+USERPIC_UPLOAD_REQUIRED Anda diharuskan untuk mengunggah foto profil untuk tindakan ini
+USERS_TOO_FEW Tidak cukup pengguna (untuk membuat chat, misalnya)
+USERS_TOO_MUCH Jumlah maksimum pengguna telah terlampaui (untuk membuat chat, misalnya)
+USER_ADMIN_INVALID Tindakan ini memerlukan hak admin. Mungkin Anda mencoba mengedit hak admin pada seseorang yang tidak memiliki hak untuk itu
+USER_ALREADY_INVITED Anda sudah mengundang pengguna ini
 USER_ALREADY_PARTICIPANT	The user is already a participant of this chat
 USER_BANNED_IN_CHANNEL	You are limited from sending messages in supergroups/channels, check @SpamBot for details
 USER_BLOCKED	The user is blocked
