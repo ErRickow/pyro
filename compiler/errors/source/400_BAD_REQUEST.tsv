@@ -198,36 +198,36 @@ GIF_ID_INVALID ID gif/animasi yang diberikan tidak valid
 GRAPH_EXPIRED_RELOAD Grafik ini telah kadaluarsa, silakan peroleh token grafik baru
 GRAPH_INVALID_RELOAD Token grafik tidak valid yang diberikan, silakan muat ulang statistik dan berikan token yang diperbarui
 GRAPH_OUTDATED_RELOAD Data grafik sudah usang
-GROUPCALL_ALREADY_DISCARDED	The group call was already discarded
-GROUPCALL_FORBIDDEN	The group call has already ended.
-GROUPCALL_INVALID	The specified group call is invalid
-GROUPCALL_JOIN_MISSING	You haven't joined this group call
-GROUPCALL_NOT_MODIFIED	Group call settings weren't modified
-GROUPCALL_SSRC_DUPLICATE_MUCH	Too many group call synchronization source duplicates
-GROUPED_MEDIA_INVALID	The album contains invalid media
-GROUP_CALL_INVALID	The group call is invalid
-HASH_INVALID	The provided hash is invalid
-HIDE_REQUESTER_MISSING	The join request was missing or was already handled
-IMAGE_PROCESS_FAILED	The server failed to process your image
-IMPORT_FILE_INVALID	The imported file is invalid
-IMPORT_FORMAT_UNRECOGNIZED	The imported format is unrecognized
-IMPORT_ID_INVALID	The import id is invalid
-IMPORT_TOKEN_INVALID	The specified token is invalid.
-INLINE_RESULT_EXPIRED	The inline bot query expired
-INPUT_CHATLIST_INVALID	The specified folder is invalid.
-INPUT_CONSTRUCTOR_INVALID	The provided constructor is invalid
-INPUT_FETCH_ERROR	An error occurred while deserializing TL parameters
-INPUT_FETCH_FAIL	Failed deserializing TL payload
-INPUT_FILTER_INVALID	The filter is invalid for this query
-INPUT_LAYER_INVALID	The provided layer is invalid
-INPUT_METHOD_INVALID	The method invoked is invalid in the current schema
-INPUT_REQUEST_TOO_LONG	The input request is too long
-INPUT_TEXT_EMPTY	The specified text is empty
-INPUT_TEXT_TOO_LONG	The specified text is too long.
-INPUT_USER_DEACTIVATED	The target user has been deleted/deactivated
-INVITES_TOO_MUCH	The maximum number of per-folder invites specified by the `chatlist_invites_limit_default`/`chatlist_invites_limit_premium` [client configuration parameters &raquo;](/api/config#chatlist-invites-limit-default) was reached.
-INVITE_FORBIDDEN_WITH_JOINAS	If the user has anonymously joined a group call as a channel, they can't invite other users to the group call because that would cause deanonymization, because the invite would be sent using the original user ID, not the anonymized channel ID
-INVITE_HASH_EMPTY	The invite hash is empty
+GROUPCALL_ALREADY_DISCARDED Panggilan grup sudah dibatalkan
+GROUPCALL_FORBIDDEN Panggilan grup sudah berakhir.
+GROUPCALL_INVALID Panggilan grup yang ditentukan tidak valid
+GROUPCALL_JOIN_MISSING Anda belum bergabung dengan panggilan grup ini
+GROUPCALL_NOT_MODIFIED Pengaturan panggilan grup tidak diubah
+GROUPCALL_SSRC_DUPLICATE_MUCH Terlalu banyak duplikat sumber sinkronisasi panggilan grup
+GROUPED_MEDIA_INVALID Album berisi media yang tidak valid
+GROUP_CALL_INVALID Panggilan grup tidak valid
+HASH_INVALID Hash yang diberikan tidak valid
+HIDE_REQUESTER_MISSING Permintaan bergabung hilang atau sudah ditangani
+IMAGE_PROCESS_FAILED Server gagal memproses gambar Anda
+IMPORT_FILE_INVALID File yang diimpor tidak valid
+IMPORT_FORMAT_UNRECOGNIZED Format yang diimpor tidak dikenali
+IMPORT_ID_INVALID ID impor tidak valid
+IMPORT_TOKEN_INVALID Token yang ditentukan tidak valid.
+INLINE_RESULT_EXPIRED Kuery bot inline telah kadaluarsa
+INPUT_CHATLIST_INVALID Folder yang ditentukan tidak valid.
+INPUT_CONSTRUCTOR_INVALID Konstruktor yang diberikan tidak valid
+INPUT_FETCH_ERROR Terjadi kesalahan saat mendeserialisasi parameter TL
+INPUT_FETCH_FAIL Gagal mendeserialisasi payload TL
+INPUT_FILTER_INVALID Filter tidak valid untuk kueri ini
+INPUT_LAYER_INVALID Layer yang diberikan tidak valid
+INPUT_METHOD_INVALID Metode yang dipanggil tidak valid dalam skema saat ini
+INPUT_REQUEST_TOO_LONG Permintaan input terlalu panjang
+INPUT_TEXT_EMPTY Teks yang ditentukan kosong
+INPUT_TEXT_TOO_LONG Teks yang ditentukan terlalu panjang.
+INPUT_USER_DEACTIVATED Pengguna target telah dihapus/dinonaktifkan
+INVITES_TOO_MUCH Jumlah maksimum undangan per-folder yang ditentukan oleh parameter konfigurasi klien `chatlist_invites_limit_default`/`chatlist_invites_limit_premium` [tidak dapat dicapai](/api/config#chatlist-invites-limit-default).
+INVITE_FORBIDDEN_WITH_JOINAS Jika pengguna telah bergabung secara anonim ke panggilan grup sebagai saluran, mereka tidak dapat mengundang pengguna lain ke panggilan grup karena itu akan menyebabkan deanonimisasi, karena undangan akan dikirim menggunakan ID pengguna asli, bukan ID saluran anonim
+INVITE_HASH_EMPTY Hash undangan kosong
 INVITE_HASH_EXPIRED	The chat invite link is no longer valid
 INVITE_HASH_INVALID	The invite link hash is invalid
 INVITE_REQUEST_SENT	The request to join this chat or channel has been successfully sent
